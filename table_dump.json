@@ -1,0 +1,1894 @@
+[
+  {
+    "index": 0,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masukan nama",
+        "Memasukkan nama lengkap pengguna",
+        "Kolom nama dapat terisi",
+        "Kolom nama dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan email",
+        "Memasukkan alamat email valid",
+        "Kolom email dapat terisi",
+        "Kolom email dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan password",
+        "Memasukkan kata sandi akun",
+        "Kolom password dapat terisi",
+        "Kolom password dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan konfirmasi password",
+        "Memasukkan ulang kata sandi akun",
+        "Kolom konfirmasi password dapat terisi",
+        "Kolom konfirmasi password dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Registrasi",
+        "Klik tombol “Daftar”",
+        "Sistem memproses data pendaftaran dan mengarahkan ke halaman verifikasi email (OTP)",
+        "Sistem memproses data pendaftaran dan mengarahkan ke halaman verifikasi email (OTP)",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 1,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masukan nama",
+        "Memasukkan nama lengkap pengguna",
+        "Kolom nama dapat terisi",
+        "Kolom nama dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan email",
+        "Memasukkan alamat email valid",
+        "Kolom email dapat terisi",
+        "Kolom email dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan password",
+        "Memasukkan kata sandi akun",
+        "Kolom password dapat terisi",
+        "Kolom password dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan konfirmasi password",
+        "Memasukkan ulang kata sandi akun",
+        "Kolom konfirmasi password dapat terisi",
+        "Kolom konfirmasi password dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Registrasi",
+        "Klik tombol “Daftar”",
+        "Sistem memproses data pendaftaran dan mengarahkan ke halaman verifikasi email (OTP)",
+        "Sistem memproses data pendaftaran dan mengarahkan ke halaman verifikasi email (OTP)",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 2,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masukan email",
+        "Memasukkan email pelanggan terdaftar",
+        "Kolom email dapat terisi",
+        "Kolom email dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan password",
+        "Memasukkan kata sandi pelanggan yang benar",
+        "Kolom password dapat terisi",
+        "Kolom password dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Login",
+        "Klik tombol “Masuk”",
+        "Sistem berhasil login dan masuk ke halaman beranda/dashboard pelanggan",
+        "Sistem berhasil login dan masuk ke halaman beranda/dashboard pelanggan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 3,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Lupa password",
+        "Klik tautan “Lupa Password?”",
+        "Masuk ke halaman lupa password",
+        "Masuk ke halaman lupa password",
+        "Berhasil"
+      ],
+      [
+        "Masukan email",
+        "Memasukkan email terdaftar",
+        "Kolom email dapat terisi",
+        "Kolom email dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Kirim kode verifikasi",
+        "Klik tombol “Kirim Kode Verifikasi”",
+        "Kode verifikasi (OTP) dikirimkan ke email",
+        "Kode verifikasi (OTP) dikirimkan ke email",
+        "Berhasil"
+      ],
+      [
+        "Masukan kode verifikasi & password baru",
+        "Memasukkan kode OTP 6 digit dan password baru",
+        "Kolom kode OTP dan password baru dapat terisi",
+        "Kolom kode OTP dan password baru dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Reset Password",
+        "Klik tombol “Reset Password”",
+        "Tampil notifikasi “Password berhasil direset. Silakan login kembali”",
+        "Tampil notifikasi “Password berhasil direset. Silakan login kembali”",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 4,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Akses verify email",
+        "Membuka halaman verifikasi email",
+        "Masuk ke halaman verifikasi email",
+        "Masuk ke halaman verifikasi email",
+        "Berhasil"
+      ],
+      [
+        "Masukan kode OTP",
+        "Memasukkan 6 digit kode verifikasi dari email",
+        "Kolom kode verifikasi dapat terisi",
+        "Kolom kode verifikasi dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Verifikasi akun",
+        "Klik tombol “Verifikasi Email”",
+        "Akun berhasil diverifikasi dan diarahkan ke halaman login",
+        "Akun berhasil diverifikasi dan diarahkan ke halaman login",
+        "Berhasil"
+      ],
+      [
+        "Kirim ulang kode",
+        "Klik tombol “Kirim Ulang Kode”",
+        "Kode verifikasi baru berhasil dikirim ulang ke email",
+        "Kode verifikasi baru berhasil dikirim ulang ke email",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 5,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Beranda",
+        "Klik menu “Beranda”",
+        "Masuk ke halaman beranda utama",
+        "Masuk ke halaman beranda utama",
+        "Berhasil"
+      ],
+      [
+        "Scroll beranda",
+        "Scrolling halaman beranda",
+        "Dapat melakukan scroll pada halaman beranda dengan lancar",
+        "Dapat melakukan scroll pada halaman beranda dengan lancar",
+        "Berhasil"
+      ],
+      [
+        "Klik CTA Layanan",
+        "Klik tombol “Lihat Layanan” / “Pesan Sekarang”",
+        "Sistem mengarahkan ke halaman katalog layanan",
+        "Sistem mengarahkan ke halaman katalog layanan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 6,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Tentang Kami",
+        "Klik menu “Tentang Kami”",
+        "Masuk ke halaman Tentang Kami",
+        "Masuk ke halaman Tentang Kami",
+        "Berhasil"
+      ],
+      [
+        "Scroll informasi perusahaan",
+        "Scrolling halaman tentang kami",
+        "Dapat melihat profil, visi, dan misi perusahaan dengan jelas",
+        "Dapat melihat profil, visi, dan misi perusahaan dengan jelas",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 7,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Layanan",
+        "Klik menu “Layanan”",
+        "Masuk ke halaman katalog daftar layanan",
+        "Masuk ke halaman katalog daftar layanan",
+        "Berhasil"
+      ],
+      [
+        "Filter & cari layanan",
+        "Memasukkan kata kunci layanan atau memilih kategori",
+        "Daftar layanan terfilter sesuai pencarian",
+        "Daftar layanan terfilter sesuai pencarian",
+        "Berhasil"
+      ],
+      [
+        "Detail layanan",
+        "Klik salah satu card layanan",
+        "Masuk ke halaman detail rincian layanan",
+        "Masuk ke halaman detail rincian layanan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 8,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Dokumentasi",
+        "Klik menu “Dokumentasi”",
+        "Masuk ke halaman dokumentasi proyek",
+        "Masuk ke halaman dokumentasi proyek",
+        "Berhasil"
+      ],
+      [
+        "Lihat foto dokumentasi",
+        "Scrolling dan memilih foto dokumentasi proyek",
+        "Foto dan rincian portofolio proyek tampil dengan jelas",
+        "Foto dan rincian portofolio proyek tampil dengan jelas",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 9,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Kontak",
+        "Klik menu “Kontak”",
+        "Masuk ke halaman kontak perusahaan",
+        "Masuk ke halaman kontak perusahaan",
+        "Berhasil"
+      ],
+      [
+        "Tautan WhatsApp/Telepon",
+        "Klik tombol tautan WhatsApp atau telepon",
+        "Sistem mengarahkan langsung ke kontak WhatsApp resmi perusahaan",
+        "Sistem mengarahkan langsung ke kontak WhatsApp resmi perusahaan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 10,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Tambah ke keranjang",
+        "Klik tombol “Tambah ke Keranjang” pada detail layanan",
+        "Layanan berhasil masuk ke keranjang belanja",
+        "Layanan berhasil masuk ke keranjang belanja",
+        "Berhasil"
+      ],
+      [
+        "Buka keranjang",
+        "Klik ikon/menu “Keranjang”",
+        "Masuk ke halaman keranjang belanja",
+        "Masuk ke halaman keranjang belanja",
+        "Berhasil"
+      ],
+      [
+        "Ubah kuantitas",
+        "Mengubah jumlah kuantitas layanan",
+        "Kuantitas dan subtotal harga terupdate secara otomatis",
+        "Kuantitas dan subtotal harga terupdate secara otomatis",
+        "Berhasil"
+      ],
+      [
+        "Checkout",
+        "Klik tombol “Checkout”",
+        "Masuk ke halaman formulir pemesanan",
+        "Masuk ke halaman formulir pemesanan",
+        "Berhasil"
+      ],
+      [
+        "Isi data pemesanan",
+        "Memasukkan nama, alamat, nomor HP, dan catatan pesanan",
+        "Kolom formulir pemesanan dapat terisi lengkap",
+        "Kolom formulir pemesanan dapat terisi lengkap",
+        "Berhasil"
+      ],
+      [
+        "Pesan sekarang",
+        "Klik tombol “Pesan Sekarang / Buat Pesanan”",
+        "Pesanan berhasil dibuat dan sistem mengarahkan ke halaman detail pesanan",
+        "Pesanan berhasil dibuat dan sistem mengarahkan ke halaman detail pesanan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 11,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka form PO & diskon",
+        "Klik opsi “Ajukan Diskon dengan PO” pada detail pesanan",
+        "Formulir input PO dan upload berkas PO terbuka",
+        "Formulir input PO dan upload berkas PO terbuka",
+        "Berhasil"
+      ],
+      [
+        "Masukan nomor PO",
+        "Memasukkan nomor Purchase Order (PO)",
+        "Kolom nomor PO dapat terisi",
+        "Kolom nomor PO dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Pilih berkas PO",
+        "Klik “Choose File / Pilih Berkas” dokumen PO",
+        "Masuk ke jendela file explorer dan memilih berkas PDF PO",
+        "Masuk ke jendela file explorer dan memilih berkas PDF PO",
+        "Berhasil"
+      ],
+      [
+        "Unggah dokumen PO",
+        "Klik tombol “Unggah Dokumen PO”",
+        "Berkas PO berhasil diunggah dan status diskon berubah menjadi menunggu validasi Direktur",
+        "Berkas PO berhasil diunggah dan status diskon berubah menjadi menunggu validasi Direktur",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 12,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pesanan menunggu DP",
+        "Membuka rincian pembayaran DP pada detail pesanan",
+        "Menampilkan nominal DP dan instruksi rekening transfer",
+        "Menampilkan nominal DP dan instruksi rekening transfer",
+        "Berhasil"
+      ],
+      [
+        "Pilih berkas bukti DP",
+        "Klik “Choose File” pada kolom bukti DP",
+        "Masuk ke jendela file explorer dan memilih foto/struk transfer DP",
+        "Masuk ke jendela file explorer dan memilih foto/struk transfer DP",
+        "Berhasil"
+      ],
+      [
+        "Unggah bukti DP",
+        "Klik tombol “Unggah Bukti DP”",
+        "Bukti DP berhasil diunggah dan status pesanan berubah menjadi menunggu konfirmasi Admin",
+        "Bukti DP berhasil diunggah dan status pesanan berubah menjadi menunggu konfirmasi Admin",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 13,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pesanan tahap pelunasan",
+        "Membuka tagihan pelunasan pada detail pesanan",
+        "Menampilkan nominal sisa pembayaran pelunasan",
+        "Menampilkan nominal sisa pembayaran pelunasan",
+        "Berhasil"
+      ],
+      [
+        "Pilih berkas bukti pelunasan",
+        "Klik “Choose File” bukti pelunasan",
+        "Masuk ke jendela file explorer dan memilih foto/struk transfer pelunasan",
+        "Masuk ke jendela file explorer dan memilih foto/struk transfer pelunasan",
+        "Berhasil"
+      ],
+      [
+        "Unggah bukti pelunasan",
+        "Klik tombol “Unggah Bukti Pelunasan”",
+        "Bukti pelunasan berhasil diunggah dan status pesanan berubah menjadi menunggu konfirmasi Admin",
+        "Bukti pelunasan berhasil diunggah dan status pesanan berubah menjadi menunggu konfirmasi Admin",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 14,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Dashboard",
+        "Klik menu “Dashboard / Akun Saya”",
+        "Masuk ke halaman dashboard pelanggan",
+        "Masuk ke halaman dashboard pelanggan",
+        "Berhasil"
+      ],
+      [
+        "Menu Pesanan Saya",
+        "Klik tab/menu “Pesanan Saya”",
+        "Menampilkan tabel riwayat seluruh pesanan pelanggan",
+        "Menampilkan tabel riwayat seluruh pesanan pelanggan",
+        "Berhasil"
+      ],
+      [
+        "Filter status pesanan",
+        "Memilih filter status pesanan",
+        "Daftar pesanan terfilter sesuai status yang dipilih",
+        "Daftar pesanan terfilter sesuai status yang dipilih",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 15,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka berkas persyaratan",
+        "Membuka bagian dokumen persyaratan pada detail pesanan",
+        "Menampilkan daftar dokumen persyaratan teknis yang harus diunggah",
+        "Menampilkan daftar dokumen persyaratan teknis yang harus diunggah",
+        "Berhasil"
+      ],
+      [
+        "Pilih file persyaratan",
+        "Klik “Choose File” pada berkas persyaratan",
+        "Masuk ke jendela file explorer dan memilih file PDF/gambar persyaratan",
+        "Masuk ke jendela file explorer dan memilih file PDF/gambar persyaratan",
+        "Berhasil"
+      ],
+      [
+        "Unggah dokumen persyaratan",
+        "Klik tombol “Unggah Berkas”",
+        "Dokumen persyaratan layanan berhasil diunggah dan tersimpan di sistem",
+        "Dokumen persyaratan layanan berhasil diunggah dan tersimpan di sistem",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 16,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka menu dokumen SPK",
+        "Membuka bagian Surat Perjanjian Kerja (SPK) pada detail pesanan",
+        "Menampilkan instruksi dan form unggah dokumen SPK",
+        "Menampilkan instruksi dan form unggah dokumen SPK",
+        "Berhasil"
+      ],
+      [
+        "Pilih berkas SPK bertanda tangan",
+        "Klik “Choose File” pada dokumen SPK",
+        "Masuk ke jendela file explorer dan memilih berkas PDF SPK bertanda tangan",
+        "Masuk ke jendela file explorer dan memilih berkas PDF SPK bertanda tangan",
+        "Berhasil"
+      ],
+      [
+        "Unggah dokumen SPK",
+        "Klik tombol “Unggah Dokumen SPK”",
+        "Dokumen SPK berhasil diunggah dan status diajukan ke Direktur untuk divalidasi",
+        "Dokumen SPK berhasil diunggah dan status diajukan ke Direktur untuk divalidasi",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 17,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pesanan Surat Jalan disetujui",
+        "Membuka detail pesanan yang Surat Jalan-nya telah disetujui Direktur",
+        "Tombol “Cetak Surat Jalan” tampil dan aktif",
+        "Tombol “Cetak Surat Jalan” tampil dan aktif",
+        "Berhasil"
+      ],
+      [
+        "Cetak Surat Jalan",
+        "Klik tombol “Cetak Surat Jalan”",
+        "Sistem mengunduh dan menampilkan format PDF Dokumen Surat Jalan resmi",
+        "Sistem mengunduh dan menampilkan format PDF Dokumen Surat Jalan resmi",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 18,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pesanan Berita Acara disetujui",
+        "Membuka detail pesanan yang Berita Acara-nya telah divalidasi Direktur",
+        "Tombol “Cetak Berita Acara” tampil dan aktif",
+        "Tombol “Cetak Berita Acara” tampil dan aktif",
+        "Berhasil"
+      ],
+      [
+        "Cetak Berita Acara",
+        "Klik tombol “Cetak Berita Acara”",
+        "Sistem mengunduh dan menampilkan lembar PDF Berita Acara Serah Terima Pekerjaan",
+        "Sistem mengunduh dan menampilkan lembar PDF Berita Acara Serah Terima Pekerjaan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 19,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pesanan Invoice terbit",
+        "Membuka detail pesanan yang Invoice-nya telah diterbitkan dan disetujui",
+        "Tombol “Cetak Invoice” tampil dan aktif",
+        "Tombol “Cetak Invoice” tampil dan aktif",
+        "Berhasil"
+      ],
+      [
+        "Cetak Invoice",
+        "Klik tombol “Cetak Invoice”",
+        "Sistem mengunduh dan menampilkan lembar PDF Tagihan Invoice resmi",
+        "Sistem mengunduh dan menampilkan lembar PDF Tagihan Invoice resmi",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 20,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka menu Chat",
+        "Klik menu/ikon “Chat”",
+        "Masuk ke jendela percakapan chat dengan Admin",
+        "Masuk ke jendela percakapan chat dengan Admin",
+        "Berhasil"
+      ],
+      [
+        "Ketik pesan",
+        "Mengetik pesan teks pada kolom chat",
+        "Kolom chat dapat terisi",
+        "Kolom chat dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Kirim pesan",
+        "Klik tombol “Kirim”",
+        "Pesan berhasil terkirim ke Admin secara real-time",
+        "Pesan berhasil terkirim ke Admin secara real-time",
+        "Berhasil"
+      ],
+      [
+        "Terima balasan",
+        "Menerima balasan pesan dari Admin",
+        "Pesan balasan dari Admin tampil di ruang obrolan",
+        "Pesan balasan dari Admin tampil di ruang obrolan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 21,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Logout",
+        "Klik menu profil lalu klik “Logout”",
+        "Sistem menghapus sesi login pelanggan",
+        "Sistem menghapus sesi login pelanggan",
+        "Berhasil"
+      ],
+      [
+        "Verifikasi proteksi",
+        "Mengarahkan kembali ke halaman Beranda/Login dan sesi pelanggan berakhir",
+        "Sistem mengarahkan ke halaman Beranda/Login dan sesi pelanggan berakhir",
+        "Sistem mengarahkan ke halaman Beranda/Login dan sesi pelanggan berakhir",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 22,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masukan email",
+        "Memasukkan email akun Admin",
+        "Kolom email dapat terisi",
+        "Kolom email dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan password",
+        "Memasukkan password akun Admin",
+        "Kolom password dapat terisi",
+        "Kolom password dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Login",
+        "Klik tombol “Masuk”",
+        "Sistem berhasil login dan masuk ke Dashboard Admin",
+        "Sistem berhasil login dan masuk ke Dashboard Admin",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 23,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk Dashboard Admin",
+        "Klik menu “Dashboard”",
+        "Masuk ke halaman dashboard Admin",
+        "Masuk ke halaman dashboard Admin",
+        "Berhasil"
+      ],
+      [
+        "Tinjau ringkasan statistik",
+        "Melihat widget total pesanan, pelanggan, dan pesanan terbaru",
+        "Menampilkan data statistik operasional dengan lengkap dan akurat",
+        "Menampilkan data statistik operasional dengan lengkap dan akurat",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 24,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Data Pelanggan",
+        "Klik menu “Data Pelanggan”",
+        "Menampilkan tabel daftar seluruh pelanggan terdaftar",
+        "Menampilkan tabel daftar seluruh pelanggan terdaftar",
+        "Berhasil"
+      ],
+      [
+        "Pencarian pelanggan",
+        "Memasukkan nama/email pelanggan pada kolom search",
+        "Data pelanggan terfilter sesuai kata kunci",
+        "Data pelanggan terfilter sesuai kata kunci",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 25,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka form tambah pelanggan",
+        "Klik tombol “Tambah Pelanggan”",
+        "Modal form tambah pelanggan terbuka",
+        "Modal form tambah pelanggan terbuka",
+        "Berhasil"
+      ],
+      [
+        "Masukan data pelanggan",
+        "Memasukkan nama, email, dan password pelanggan baru",
+        "Kolom form tambah pelanggan dapat terisi",
+        "Kolom form tambah pelanggan dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Simpan data pelanggan",
+        "Klik tombol “Simpan”",
+        "Data pelanggan baru berhasil disimpan dan akun langsung aktif",
+        "Data pelanggan baru berhasil disimpan dan akun langsung aktif",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 26,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Pesanan",
+        "Klik menu “Pesanan”",
+        "Menampilkan tabel seluruh pesanan yang masuk",
+        "Menampilkan tabel seluruh pesanan yang masuk",
+        "Berhasil"
+      ],
+      [
+        "Filter status & pencarian",
+        "Memilih filter status pesanan atau mencari ID pesanan",
+        "Tabel data pesanan terfilter sesuai pilihan",
+        "Tabel data pesanan terfilter sesuai pilihan",
+        "Berhasil"
+      ],
+      [
+        "Buka detail pesanan",
+        "Klik tombol “Detail” pada salah satu pesanan",
+        "Masuk ke halaman detail pesanan Admin",
+        "Masuk ke halaman detail pesanan Admin",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 27,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka detail bukti DP",
+        "Membuka pesanan berstatus menunggu konfirmasi bukti DP",
+        "Menampilkan pratinjau bukti transfer DP pelanggan",
+        "Menampilkan pratinjau bukti transfer DP pelanggan",
+        "Berhasil"
+      ],
+      [
+        "Setujui bukti DP",
+        "Klik tombol “Konfirmasi / Setujui DP”",
+        "Status pembayaran DP berubah menjadi disetujui dan pesanan diproses ke tahap selanjutnya",
+        "Status pembayaran DP berubah menjadi disetujui dan pesanan diproses ke tahap selanjutnya",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 28,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka detail bukti DP tidak valid",
+        "Membuka bukti transfer DP yang tidak sesuai",
+        "Menampilkan bukti transfer DP",
+        "Menampilkan bukti transfer DP",
+        "Berhasil"
+      ],
+      [
+        "Tolak bukti DP",
+        "Memasukkan catatan alasan dan klik tombol “Tolak Bukti DP”",
+        "Status bukti DP berubah menjadi ditolak dan pelanggan diminta mengunggah ulang",
+        "Status bukti DP berubah menjadi ditolak dan pelanggan diminta mengunggah ulang",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 29,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka bukti pelunasan",
+        "Membuka pesanan dengan bukti pelunasan masuk",
+        "Menampilkan pratinjau bukti transfer pelunasan",
+        "Menampilkan pratinjau bukti transfer pelunasan",
+        "Berhasil"
+      ],
+      [
+        "Setujui bukti pelunasan",
+        "Klik tombol “Konfirmasi Pelunasan”",
+        "Status pembayaran berubah menjadi Lunas Sepenuhnya dan pesanan beralih ke tahap penyelesaian",
+        "Status pembayaran berubah menjadi Lunas Sepenuhnya dan pesanan beralih ke tahap penyelesaian",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 30,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka bukti pelunasan salah",
+        "Membuka bukti transfer pelunasan yang keliru",
+        "Menampilkan berkas bukti pelunasan",
+        "Menampilkan berkas bukti pelunasan",
+        "Berhasil"
+      ],
+      [
+        "Tolak bukti pelunasan",
+        "Memasukkan alasan dan klik tombol “Tolak Pelunasan”",
+        "Status bukti pelunasan ditolak dan notifikasi perbaikan terkirim ke pelanggan",
+        "Status bukti pelunasan ditolak dan notifikasi perbaikan terkirim ke pelanggan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 31,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka menu pengajuan Surat Jalan",
+        "Membuka form Surat Jalan pada detail pesanan",
+        "Formulir data pengajuan Surat Jalan terbuka",
+        "Formulir data pengajuan Surat Jalan terbuka",
+        "Berhasil"
+      ],
+      [
+        "Isi data Surat Jalan",
+        "Memasukkan nomor dan tanggal Surat Jalan",
+        "Kolom data Surat Jalan dapat terisi",
+        "Kolom data Surat Jalan dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Ajukan ke Direktur",
+        "Klik tombol “Ajukan ke Direktur”",
+        "Dokumen Surat Jalan berhasil diajukan dan status berubah menjadi menunggu validasi Direktur",
+        "Dokumen Surat Jalan berhasil diajukan dan status berubah menjadi menunggu validasi Direktur",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 32,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka form Berita Acara",
+        "Membuka menu Berita Acara pada detail pesanan selesai",
+        "Formulir Berita Acara Serah Terima terbuka",
+        "Formulir Berita Acara Serah Terima terbuka",
+        "Berhasil"
+      ],
+      [
+        "Isi rincian Berita Acara",
+        "Memasukkan data hasil pekerjaan dan tanggal Berita Acara",
+        "Kolom data Berita Acara dapat terisi lengkap",
+        "Kolom data Berita Acara dapat terisi lengkap",
+        "Berhasil"
+      ],
+      [
+        "Ajukan ke Direktur",
+        "Klik tombol “Ajukan Berita Acara”",
+        "Dokumen Berita Acara berhasil diajukan ke Direktur untuk divalidasi",
+        "Dokumen Berita Acara berhasil diajukan ke Direktur untuk divalidasi",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 33,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka draf tagihan Invoice",
+        "Membuka menu penerbitan Invoice pada detail pesanan",
+        "Menampilkan rincian draf Invoice tagihan pesanan",
+        "Menampilkan rincian draf Invoice tagihan pesanan",
+        "Berhasil"
+      ],
+      [
+        "Ajukan Invoice ke Direktur",
+        "Klik tombol “Ajukan Invoice ke Direktur”",
+        "Dokumen Invoice berhasil diajukan ke Direktur untuk validasi pengesahan",
+        "Dokumen Invoice berhasil diajukan ke Direktur untuk validasi pengesahan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 34,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pesanan Surat Jalan disetujui",
+        "Membuka detail pesanan yang Surat Jalan-nya telah disetujui Direktur",
+        "Tombol “Cetak Surat Jalan” aktif di panel Admin",
+        "Tombol “Cetak Surat Jalan” aktif di panel Admin",
+        "Berhasil"
+      ],
+      [
+        "Cetak Surat Jalan",
+        "Klik tombol “Cetak Surat Jalan”",
+        "Sistem mengunduh dan menampilkan dokumen Surat Jalan resmi format PDF",
+        "Sistem mengunduh dan menampilkan dokumen Surat Jalan resmi format PDF",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 35,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pesanan Berita Acara disetujui",
+        "Membuka detail pesanan yang Berita Acara-nya disetujui Direktur",
+        "Tombol “Cetak Berita Acara” aktif di panel Admin",
+        "Tombol “Cetak Berita Acara” aktif di panel Admin",
+        "Berhasil"
+      ],
+      [
+        "Cetak Berita Acara",
+        "Klik tombol “Cetak Berita Acara”",
+        "Sistem menghasilkan lembar cetak PDF Berita Acara Serah Terima",
+        "Sistem menghasilkan lembar cetak PDF Berita Acara Serah Terima",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 36,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pesanan Invoice disetujui",
+        "Membuka detail pesanan yang Invoice-nya disetujui Direktur",
+        "Tombol “Cetak Invoice” aktif di panel Admin",
+        "Tombol “Cetak Invoice” aktif di panel Admin",
+        "Berhasil"
+      ],
+      [
+        "Cetak Invoice",
+        "Klik tombol “Cetak Invoice”",
+        "Sistem menghasilkan dan membuka lembar tagihan resmi Invoice format PDF",
+        "Sistem menghasilkan dan membuka lembar tagihan resmi Invoice format PDF",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 37,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Chat Admin",
+        "Klik menu “Chat” pada panel Admin",
+        "Menampilkan daftar kontak pelanggan yang mengirim pesan",
+        "Menampilkan daftar kontak pelanggan yang mengirim pesan",
+        "Berhasil"
+      ],
+      [
+        "Pilih percakapan pelanggan",
+        "Memilih salah satu kontak pelanggan",
+        "Jendela riwayat percakapan dengan pelanggan terbuka",
+        "Jendela riwayat percakapan dengan pelanggan terbuka",
+        "Berhasil"
+      ],
+      [
+        "Kirim balasan chat",
+        "Mengetik balasan dan klik tombol “Kirim”",
+        "Pesan balasan berhasil terkirim ke pelanggan secara langsung",
+        "Pesan balasan berhasil terkirim ke pelanggan secara langsung",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 38,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Logout Admin",
+        "Klik tombol “Logout” pada navigasi Admin",
+        "Sesi login Admin berhasil dihapus dari sistem",
+        "Sesi login Admin berhasil dihapus dari sistem",
+        "Berhasil"
+      ],
+      [
+        "Verifikasi proteksi akses",
+        "Mencoba mengakses URL “/admin/dashboard” kembali",
+        "Sistem menolak akses dan mengarahkan ke halaman login",
+        "Sistem menolak akses dan mengarahkan ke halaman login",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 39,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masukan email",
+        "Memasukkan email akun Direktur",
+        "Kolom email dapat terisi",
+        "Kolom email dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan password",
+        "Memasukkan password akun Direktur",
+        "Kolom password dapat terisi",
+        "Kolom password dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Login",
+        "Klik tombol “Masuk”",
+        "Sistem memvalidasi kredensial dan mengarahkan ke Dashboard Direktur",
+        "Sistem memvalidasi kredensial dan mengarahkan ke Dashboard Direktur",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 40,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk Dashboard Direktur",
+        "Klik menu “Dashboard”",
+        "Masuk ke halaman dashboard Direktur",
+        "Masuk ke halaman dashboard Direktur",
+        "Berhasil"
+      ],
+      [
+        "Tinjau ringkasan operasional",
+        "Melihat grafik kinerja, rekap validasi dokumen, dan status operasional",
+        "Informasi ringkasan aktivitas perusahaan tampil lengkap dan tepat",
+        "Informasi ringkasan aktivitas perusahaan tampil lengkap dan tepat",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 41,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Data Pelanggan",
+        "Klik menu “Data Pelanggan”",
+        "Menampilkan tabel rekapitulasi data seluruh pelanggan perusahaan",
+        "Menampilkan tabel rekapitulasi data seluruh pelanggan perusahaan",
+        "Berhasil"
+      ],
+      [
+        "Filter & cari pelanggan",
+        "Memasukkan nama/email pelanggan pada kolom pencarian",
+        "Data pelanggan terfilter sesuai kata kunci yang dimasukkan",
+        "Data pelanggan terfilter sesuai kata kunci yang dimasukkan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 42,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Validasi Dokumen",
+        "Klik menu “Validasi Dokumen”",
+        "Menampilkan tabel seluruh daftar dokumen yang diajukan untuk divalidasi",
+        "Menampilkan tabel seluruh daftar dokumen yang diajukan untuk divalidasi",
+        "Berhasil"
+      ],
+      [
+        "Filter tipe dokumen & status",
+        "Memilih filter tipe dokumen (PO, SPK, dsb.) dan status validasi",
+        "Tabel dokumen terfilter sesuai filter yang dipilih",
+        "Tabel dokumen terfilter sesuai filter yang dipilih",
+        "Berhasil"
+      ],
+      [
+        "Buka review dokumen",
+        "Klik tombol “Detail / Review” pada dokumen",
+        "Masuk ke halaman peninjauan detail dokumen yang diajukan",
+        "Masuk ke halaman peninjauan detail dokumen yang diajukan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 43,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka berkas PO",
+        "Membuka pengajuan berkas Purchase Order (PO) pelanggan",
+        "Menampilkan pratinjau berkas dokumen PO",
+        "Menampilkan pratinjau berkas dokumen PO",
+        "Berhasil"
+      ],
+      [
+        "Setujui dokumen PO",
+        "Klik tombol “Setujui Dokumen PO”",
+        "Status dokumen PO berubah menjadi “Disetujui”, diskon diterapkan, dan notifikasi terkirim",
+        "Status dokumen PO berubah menjadi “Disetujui”, diskon diterapkan, dan notifikasi terkirim",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 44,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka berkas PO tidak sesuai",
+        "Membuka dokumen PO yang tidak memenuhi syarat diskon",
+        "Menampilkan berkas dokumen PO",
+        "Menampilkan berkas dokumen PO",
+        "Berhasil"
+      ],
+      [
+        "Tolak dokumen PO",
+        "Memasukkan alasan penolakan dan klik “Tolak Dokumen PO”",
+        "Status dokumen PO berubah menjadi “Ditolak” dan diskon tidak diberikan",
+        "Status dokumen PO berubah menjadi “Ditolak” dan diskon tidak diberikan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 45,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pengajuan berkas SPK",
+        "Membuka dokumen SPK bertanda tangan yang diunggah",
+        "Menampilkan berkas Surat Perjanjian Kerja (SPK)",
+        "Menampilkan berkas Surat Perjanjian Kerja (SPK)",
+        "Berhasil"
+      ],
+      [
+        "Setujui dokumen SPK",
+        "Klik tombol “Setujui SPK”",
+        "Status SPK berubah menjadi “Disetujui” dan proyek diteruskan ke Manager Teknisi",
+        "Status SPK berubah menjadi “Disetujui” dan proyek diteruskan ke Manager Teknisi",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 46,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka berkas SPK belum lengkap",
+        "Membuka dokumen SPK yang belum lengkap/salah format",
+        "Menampilkan berkas dokumen SPK",
+        "Menampilkan berkas dokumen SPK",
+        "Berhasil"
+      ],
+      [
+        "Tolak dokumen SPK",
+        "Memasukkan catatan koreksi dan klik “Tolak SPK”",
+        "Status SPK berubah menjadi “Ditolak” dan Admin/Pelanggan diminta merevisi",
+        "Status SPK berubah menjadi “Ditolak” dan Admin/Pelanggan diminta merevisi",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 47,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pengajuan Surat Jalan",
+        "Membuka berkas pengajuan Surat Jalan dari Admin",
+        "Menampilkan rincian data Surat Jalan",
+        "Menampilkan rincian data Surat Jalan",
+        "Berhasil"
+      ],
+      [
+        "Setujui Surat Jalan",
+        "Klik tombol “Setujui Surat Jalan”",
+        "Status Surat Jalan berubah menjadi “Disetujui” dan siap dicetak",
+        "Status Surat Jalan berubah menjadi “Disetujui” dan siap dicetak",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 48,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka data Surat Jalan keliru",
+        "Membuka pengajuan Surat Jalan yang informasinya belum sesuai",
+        "Menampilkan data Surat Jalan",
+        "Menampilkan data Surat Jalan",
+        "Berhasil"
+      ],
+      [
+        "Tolak Surat Jalan",
+        "Memasukkan alasan penolakan dan klik “Tolak Surat Jalan”",
+        "Status Surat Jalan berubah menjadi “Ditolak” untuk direvisi oleh Admin",
+        "Status Surat Jalan berubah menjadi “Ditolak” untuk direvisi oleh Admin",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 49,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka draf Berita Acara",
+        "Membuka pengajuan Berita Acara Serah Terima Pekerjaan",
+        "Menampilkan data rincian hasil pekerjaan",
+        "Menampilkan data rincian hasil pekerjaan",
+        "Berhasil"
+      ],
+      [
+        "Setujui Berita Acara",
+        "Klik tombol “Setujui Berita Acara”",
+        "Status Berita Acara berubah menjadi disetujui dan disahkan secara resmi",
+        "Status Berita Acara berubah menjadi disetujui dan disahkan secara resmi",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 50,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka Berita Acara belum sesuai",
+        "Membuka draf Berita Acara yang terdapat kekeliruan",
+        "Menampilkan rincian Berita Acara",
+        "Menampilkan rincian Berita Acara",
+        "Berhasil"
+      ],
+      [
+        "Tolak Berita Acara",
+        "Memasukkan catatan perbaikan dan klik “Tolak Berita Acara”",
+        "Status Berita Acara berubah menjadi “Ditolak” untuk diperbaiki",
+        "Status Berita Acara berubah menjadi “Ditolak” untuk diperbaiki",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 51,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka pengajuan tagihan Invoice",
+        "Membuka draf tagihan Invoice dari Admin",
+        "Menampilkan rincian nominal dan item Invoice",
+        "Menampilkan rincian nominal dan item Invoice",
+        "Berhasil"
+      ],
+      [
+        "Setujui tagihan Invoice",
+        "Klik tombol “Setujui Invoice”",
+        "Status Invoice resmi disetujui dan diterbitkan kepada pelanggan",
+        "Status Invoice resmi disetujui dan diterbitkan kepada pelanggan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 52,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka Invoice tidak sesuai",
+        "Membuka pengajuan tagihan Invoice yang nominalnya keliru",
+        "Menampilkan berkas draf Invoice",
+        "Menampilkan berkas draf Invoice",
+        "Berhasil"
+      ],
+      [
+        "Tolak Invoice",
+        "Memasukkan alasan penolakan dan klik “Tolak Invoice”",
+        "Status Invoice berubah menjadi “Ditolak” dan dikembalikan ke Admin",
+        "Status Invoice berubah menjadi “Ditolak” dan dikembalikan ke Admin",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 53,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Laporan Teknisi",
+        "Klik menu “Laporan Teknisi”",
+        "Menampilkan tabel daftar seluruh laporan pengerjaan dari Manager Teknisi",
+        "Menampilkan tabel daftar seluruh laporan pengerjaan dari Manager Teknisi",
+        "Berhasil"
+      ],
+      [
+        "Filter status laporan",
+        "Memilih filter status (Menunggu, Disetujui, Ditolak)",
+        "Daftar laporan teknisi terfilter sesuai status yang dipilih",
+        "Daftar laporan teknisi terfilter sesuai status yang dipilih",
+        "Berhasil"
+      ],
+      [
+        "Buka detail laporan teknisi",
+        "Klik tombol “Detail” pada salah satu laporan",
+        "Masuk ke halaman rincian laporan pengerjaan lapangan",
+        "Masuk ke halaman rincian laporan pengerjaan lapangan",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 54,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka laporan pengerjaan lapangan",
+        "Membuka laporan teknisi lengkap dengan foto dokumentasi",
+        "Menampilkan foto bukti pengerjaan dan alat yang digunakan",
+        "Menampilkan foto bukti pengerjaan dan alat yang digunakan",
+        "Berhasil"
+      ],
+      [
+        "Konfirmasi setujui laporan",
+        "Klik tombol “Konfirmasi / Setujui Laporan”",
+        "Status laporan pengerjaan disetujui dan proyek dinyatakan selesai secara teknis",
+        "Status laporan pengerjaan disetujui dan proyek dinyatakan selesai secara teknis",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 55,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka laporan dokumentasi buram",
+        "Membuka laporan teknisi yang hasil fotonya kurang jelas/lengkap",
+        "Menampilkan data laporan teknisi",
+        "Menampilkan data laporan teknisi",
+        "Berhasil"
+      ],
+      [
+        "Tolak laporan teknisi",
+        "Memasukkan alasan penolakan dan klik “Tolak Laporan”",
+        "Status laporan berubah menjadi ditolak dan Manager Teknisi diminta mengirim ulang",
+        "Status laporan berubah menjadi ditolak dan Manager Teknisi diminta mengirim ulang",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 56,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Logout Direktur",
+        "Klik menu profil lalu klik “Logout”",
+        "Sesi akun Direktur berhasil dihapus dari sistem",
+        "Sesi akun Direktur berhasil dihapus dari sistem",
+        "Berhasil"
+      ],
+      [
+        "Cek proteksi sesi",
+        "Mencoba mengakses URL “/direktur/dashboard” kembali",
+        "Sistem mengarahkan kembali ke halaman login dan membatasi akses tanpa login",
+        "Sistem mengarahkan kembali ke halaman login dan membatasi akses tanpa login",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 57,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masukan email",
+        "Memasukkan email akun Manager Teknisi",
+        "Kolom email dapat terisi",
+        "Kolom email dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan password",
+        "Memasukkan password akun Manager Teknisi",
+        "Kolom password dapat terisi",
+        "Kolom password dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Login",
+        "Klik tombol “Masuk”",
+        "Sistem berhasil login dan mengarahkan ke Dashboard Manager Teknisi",
+        "Sistem berhasil login dan mengarahkan ke Dashboard Manager Teknisi",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 58,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk Dashboard Manager",
+        "Klik menu “Dashboard”",
+        "Masuk ke halaman dashboard Manager Teknisi",
+        "Masuk ke halaman dashboard Manager Teknisi",
+        "Berhasil"
+      ],
+      [
+        "Tinjau ringkasan proyek",
+        "Melihat total proyek siap kerja, menunggu lapor, dan selesai lapor",
+        "Informasi ringkasan proyek teknis tampil lengkap dan akurat",
+        "Informasi ringkasan proyek teknis tampil lengkap dan akurat",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 59,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Masuk menu Pelaporan",
+        "Klik menu “Pelaporan”",
+        "Menampilkan daftar pesanan/proyek yang SPK-nya telah disetujui Direktur",
+        "Menampilkan daftar pesanan/proyek yang SPK-nya telah disetujui Direktur",
+        "Berhasil"
+      ],
+      [
+        "Filter & cari proyek",
+        "Memilih filter layanan atau mencari ID pesanan",
+        "Tabel data proyek terfilter sesuai kriteria pencarian",
+        "Tabel data proyek terfilter sesuai kriteria pencarian",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 60,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Buka form pelaporan",
+        "Klik tombol “Laporkan / Buat Laporan” pada proyek terkait",
+        "Modal / form pelaporan pengerjaan teknisi terbuka",
+        "Modal / form pelaporan pengerjaan teknisi terbuka",
+        "Berhasil"
+      ],
+      [
+        "Masukan alat yang digunakan",
+        "Memasukkan atau memilih nama alat teknis yang dipakai",
+        "Kolom nama alat dapat terisi",
+        "Kolom nama alat dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Masukan tanggal selesai",
+        "Memasukkan tanggal selesai pengerjaan proyek",
+        "Kolom tanggal selesai dapat terisi",
+        "Kolom tanggal selesai dapat terisi",
+        "Berhasil"
+      ],
+      [
+        "Pilih foto dokumentasi",
+        "Klik “Choose File” foto bukti pengerjaan lapangan",
+        "Masuk ke jendela file explorer dan memilih file foto pekerjaan",
+        "Masuk ke jendela file explorer dan memilih file foto pekerjaan",
+        "Berhasil"
+      ],
+      [
+        "Kirim laporan pengerjaan",
+        "Klik tombol “Kirim Laporan”",
+        "Laporan pengerjaan berhasil disimpan dan otomatis diajukan ke Direktur untuk dikonfirmasi",
+        "Laporan pengerjaan berhasil disimpan dan otomatis diajukan ke Direktur untuk dikonfirmasi",
+        "Berhasil"
+      ]
+    ]
+  },
+  {
+    "index": 61,
+    "rows": [
+      [
+        "Skenario Pengujian",
+        "Tindakan",
+        "Hasil yang Diharapkan",
+        "Hasil Pengujian",
+        "Ket."
+      ],
+      [
+        "Logout Manager",
+        "Klik tombol “Logout” pada navigasi Manager Teknisi",
+        "Sesi akun Manager Teknisi dihapus dari sistem",
+        "Sesi akun Manager Teknisi dihapus dari sistem",
+        "Berhasil"
+      ],
+      [
+        "Verifikasi proteksi akses",
+        "Mencoba mengakses kembali URL “/manager/dashboard”",
+        "Sistem mengarahkan ke halaman login dan membatasi akses tanpa login",
+        "Sistem mengarahkan ke halaman login dan membatasi akses tanpa login",
+        "Berhasil"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,2361 @@
+
+
+=== PDF PAGE 93 ===
+135 
+ 
+ 
+ 
+3. Tes Perangkat Lunak 
+Tes perangkat lunak  atau pengujian dilakukan untuk memastikan bahwa  
+sistem yang dibangun telah berjalan dan berfungsi sesuai dengan kebutuhan 
+pengguna. Dalam proses pengujian ini, penulis menggunakan dua metode, yaitu 
+Black Box Testing dan Beta Testing.  
+a. Black Box Testing 
+Pengujian menggunakan black box testing  bertujuan  untuk memastikan 
+bahwa seluruh  fungsi sistem yang dibangun berjalan dengan baik dan sesuai 
+dengan skenario yang diharapkan.  
+Keterangan :  
+Berhasil : Jika program yang diuji berjalan sesuai skenario yang diharapkan  
+Error  : Jika program yang diuji tidak berjalan dan terdapat kesalahan 
+(1) Pengujian Halaman Konsumen 
+(a) Pengujian Halaman Registrasi Konsumen 
+Dalam tahapan ini, penulis melakukan pengujian halaman registrasi 
+konsumen. Adapun hasil pengujian dapat dilihat pada tabel 37. 
+Tabel 37. Pengujian Halaman Registrasi Konsumen 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masukan nama Memasukkan 
+nama 
+Kolom nama 
+dapat terisi 
+Kolom nama 
+dapat terisi 
+Berhasil 
+Masukan email Memasukkan 
+email 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Masukan 
+password 
+Memasukkan 
+password 
+Kolom 
+password 
+dapat terisi 
+Kolom 
+password 
+dapat terisi 
+Berhasil 
+Registrasi Klik tombol 
+“Registrasi” 
+Tampil 
+notifikasi 
+“Registrasiْۗ
+berhasil, 
+silakan login” 
+Tampil 
+notifikasi 
+“Registrasiْۗ
+berhasil, 
+silakan login” 
+Berhasil 
+ (Sumber: Penulis, 2025) 
+(b) Pengujian Halaman Login Konsumen 
+Dalam tahapan ini, penulis melakukan pengujian halaman login konsumen. 
+Adapun hasil pengujian dapat dilihat pada tabel 38. 
+
+=== PDF PAGE 94 ===
+136 
+ 
+ 
+ 
+Tabel 38. Pengujian Halaman Login Konsumen 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masukan email Memasukkan 
+email 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Masukan 
+password 
+Memasukkan 
+password 
+Kolom 
+password 
+dapat terisi 
+Kolom 
+password 
+dapat terisi 
+Berhasil 
+Login Klik tombol 
+“Login” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(c) Pengujian Halaman Lupa Password 
+Dalam tahapan ini, penulis melakukan pengujian halaman lupa password. 
+Adapun hasil pengujian dapat dilihat pada tabel 39. 
+Tabel 39. Pengujian Halaman Lupa Password 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Lupa password Klikْۗ“Lupaْۗ
+Password?” 
+Masuk ke 
+halaman lupa 
+password 
+Masuk ke 
+halaman lupa 
+password 
+Berhasil 
+Masukan email Memasukkan 
+email 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Kirim tautan 
+reset password 
+Klik tombol 
+“KirimْۗTautan 
+Reset 
+Password” 
+Tautan dikirim 
+ke email 
+Tautan dikirim 
+ke email 
+Berhasil 
+Tautan reset 
+password 
+Klik tautan 
+reset 
+password 
+Masuk ke 
+halaman reset 
+password 
+Masuk ke 
+halaman reset 
+password 
+Berhasil 
+Masukan 
+password baru 
+Memasukkan 
+password 
+baru 
+Kolom 
+password baru 
+dapat terisi 
+Kolom 
+password baru 
+dapat terisi 
+Berhasil 
+Reset Password Klikْۗ“Resetْۗ
+Password” 
+Tampil 
+notifikasi 
+“Password 
+berhasil 
+direset. 
+Silakan login 
+menggunakan 
+passsword 
+yangْۗbaru” 
+Tampil 
+notifikasi 
+“Password 
+berhasil 
+direset. 
+Silakan login 
+menggunakan 
+passsword 
+yangْۗbaru” 
+Berhasil 
+
+=== PDF PAGE 95 ===
+137 
+ 
+ 
+ 
+(Sumber: Penulis, 2025) 
+(d) Pengujian Halaman Dashboard Konsumen 
+Dalam tahapan ini,  penulis melakukan pengujian halaman dashboard 
+konsumen. Adapun hasil pengujian dapat dilihat pada tabel 40. 
+Tabel 40. Pengujian Halaman Dashboard Konsumen 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu  
+Dashboard  
+Klik menu 
+“Dashboard” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+Scroll Scrolling 
+menu 
+dashboard 
+Dapat scrolling 
+halaman 
+dashboard 
+Dapat scrolling 
+halaman 
+dashboard 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(e) Pengujian Halaman Tentang 
+Dalam tahapan ini, penulis melakukan pengujian halaman tentang. Adapun 
+hasil pengujian dapat dilihat pada tabel 41. 
+Tabel 41. Pengujian Halaman Tentang 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+tentang 
+Klik menu 
+“Tentang” 
+Masuk ke 
+halaman 
+tentang 
+Masuk ke 
+halaman 
+tentang 
+Berhasil 
+Scroll Scrolling 
+menu 
+tentang 
+Dapat scrolling 
+halaman 
+tentang 
+Dapat scrolling 
+halaman 
+tentang 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(f) Pengujian Halaman Kontak 
+Dalam tahapan ini, penulis melakukan pengujian halaman kontak. Adapun 
+hasil pengujian dapat dilihat pada tabel 42. 
+Tabel 42. Pengujian Halaman Kontak 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+kontak 
+Klik menu 
+“Kontak” 
+Masuk ke 
+halaman 
+kontak 
+Masuk ke 
+halaman 
+kontak 
+Berhasil 
+
+=== PDF PAGE 96 ===
+138 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Scroll Scrolling 
+menu kontak 
+Dapat scroll 
+halaman 
+kontak 
+Dapat scroll 
+halaman 
+kontak 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(g) Pengujian Pemesanan Produk 
+Dalam tahapan ini, penulis melakukan pengujian pemesanan produk. 
+Adapun hasil pengujian dapat dilihat pada tabel 43. 
+Tabel 43. Pengujian Pemesanan Produk 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masukan produk 
+ke keranjang 
+Memasukkan 
+produk ke 
+keranjang 
+Produk masuk 
+ke keranjang 
+Produk masuk 
+ke keranjang 
+Berhasil 
+Menu keranjang Klik ikon 
+keranjang 
+Masuk ke 
+halaman 
+keranjang 
+Masuk ke 
+halaman 
+keranjang 
+Berhasil 
+Checkout Klik tombol 
+“Checkout” 
+Masuk ke 
+halaman form 
+pemesanan  
+Masuk ke 
+halaman form 
+pemesanan 
+Berhasil 
+Masukan nama 
+konsumen 
+Memasukkan 
+nama 
+konsumen 
+Kolom nama 
+konsumen 
+dapat terisi 
+Kolom nama 
+konsumen 
+dapat terisi 
+Berhasil 
+Masukan alamat Memasukkan 
+alamat 
+Kolom alamat 
+dapat terisi 
+Kolom alamat 
+dapat terisi 
+Berhasil 
+Masukan nomor 
+PO 
+Memasukkan 
+nomor PO 
+Kolom nomor 
+PO dapat terisi 
+Kolom nomor 
+PO dapat terisi 
+Berhasil 
+Masukan email Memasukkan 
+email 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Masukan nomor 
+HP 
+Memasukkan 
+nomor HP 
+Kolom nomor 
+HP dapat terisi 
+Kolom nomor 
+HP dapat terisi 
+Berhasil 
+Masukan 
+catatan 
+Memasukkan 
+catatan 
+Kolom catatan 
+dapat terisi 
+Kolom catatan 
+dapat terisi 
+Berhasil 
+Pesan sekarang Klik tombol 
+“Pesan 
+sekarang” 
+Masuk ke 
+halaman detail 
+pesanan 
+Masuk ke 
+halaman detail 
+pesanan 
+Berhasil 
+(Sumber: Penulis, 2025) 
+ 
+ 
+
+=== PDF PAGE 97 ===
+139 
+ 
+ 
+ 
+(h) Pengujian Unggah Bukti Pembayaran DP 
+Dalam tahapan ini, penulis melakukan pengujian unggah bukti pembayaran 
+DP. Adapun hasil pengujian dapat dilihat pada tabel 44. 
+Tabel 44. Pengujian Unggah Bukti Pembayaran DP 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+daftar pesanan 
+Klik menu 
+“Daftar 
+Pesanan” 
+Masuk ke 
+halaman daftar 
+pesanan  
+Masuk ke 
+halaman daftar 
+pesanan 
+Berhasil 
+Detail Klik tombol 
+“Detail” 
+Masuk ke 
+halaman detail 
+pemesanan  
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+Choose file Klik “Choose 
+file” 
+Masuk ke 
+jendela file 
+eksplorer 
+Masuk ke 
+jendela file 
+eksplorer 
+Berhasil 
+Open Klik Open Bukti 
+pembayaran 
+DP terunggah 
+Bukti 
+pembayaran 
+DP terunggah 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(i) Pengujian Unggah Bukti Pelunasan 
+Dalam tahapan ini, penulis melakukan pengujian unggah bukti pelunasan. 
+Adapun hasil pengujian dapat dilihat pada tabel 45. 
+Tabel 45. Pengujian Unggah Bukti Pelunasan 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+daftar pesanan 
+Klik menu 
+“Daftarْۗ
+Pesanan” 
+Masuk ke 
+halaman daftar 
+pesanan  
+Masuk ke 
+halaman daftar 
+pesanan 
+Berhasil 
+Detail Klik tombol 
+“Detail” 
+Masuk ke 
+halaman detail 
+pesanan  
+Masuk ke 
+halaman detail 
+pesanan 
+Berhasil 
+Choose file Klikْۗ“Choose 
+file” 
+Masuk ke 
+jendela file 
+eksplorer 
+Masuk ke 
+jendela file 
+eksplorer 
+Berhasil 
+Open Klik Open Bukti 
+pelunasan 
+terunggah 
+Bukti 
+pelunasan 
+terunggah 
+Berhasil 
+(Sumber: Penulis, 2025) 
+ 
+ 
+
+=== PDF PAGE 98 ===
+140 
+ 
+ 
+ 
+(j) Pengujian Cetak Dokumen Invoice 
+Dalam tahapan ini, penulis melakukan pengujian cetak dokumen invoice. 
+Adapun hasil pengujian dapat dilihat pada tabel 46. 
+Tabel 46. Pengujian Cetak Dokumen Invoice 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+daftar pesanan 
+Klik menu 
+daftar 
+pesanan 
+Masuk ke 
+halaman daftar 
+pesanan 
+Masuk ke 
+halaman daftar 
+pesanan 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pesanan 
+Masuk ke 
+halaman detail 
+pesanan 
+Berhasil 
+Cetak invoice Klikْۗ“Cetakْۗ
+Invoice” 
+Masuk ke 
+halaman cetak 
+invoice 
+Masuk ke 
+halaman cetak 
+invoice 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(k) Pengujian Fitur Chat Konsumen 
+Dalam tahapan ini, penulis melakukan pengujian fitur chat konsumen. 
+Adapun hasil pengujian dapat dilihat pada tabel 47. 
+Tabel 47. Pengujian Fitur Chat Konsumen 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk fitur chat Klik popup 
+ikon chat 
+Muncul popup 
+chat 
+Muncul popup 
+chat 
+Berhasil 
+Masukan pesan Memasukkan 
+pesan 
+Kolom pesan 
+dapat terisi 
+Kolom pesan 
+dapat terisi 
+Berhasil 
+Kirim pesan Klik ikon 
+kirim 
+Pesan terkirim 
+ke staf 
+pemasaran 
+Pesan terkirim 
+ke staf 
+pemasaran 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(l) Pengujian Logout Konsumen 
+Dalam tahapan ini, penulis melakukan pengujian logout konsumen. 
+Adapun hasil pengujian dapat dilihat pada tabel 48. 
+Tabel 48. Pengujian Logout Konsumen 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Ikon pengguna Klik ikon 
+pengguna 
+Menampilkan 
+logout 
+Menampilkan 
+logout Berhasil 
+
+=== PDF PAGE 99 ===
+141 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Logout Klik “Logout” Masuk ke 
+halaman 
+utama 
+Masuk ke 
+halaman 
+utama 
+Berhasil 
+(Sumber: Penulis, 2025) 
+2) Pengujian Halaman Manajer Pemasaran 
+(a) Pengujian Halaman Login Manajer Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman login manajer 
+pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 49. 
+Tabel 49. Pengujian Halaman Login Manajer Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masukan email Memasukkan 
+email 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Masukan 
+password 
+Memasukkan 
+password 
+Kolom 
+password 
+dapat terisi 
+Kolom 
+password 
+dapat terisi 
+Berhasil 
+Login Klik tombol 
+“Login” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(b) Pengujian Halaman Dashboard Manajer Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman dashboard 
+manajer pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 50. 
+Tabel 50. Pengujian Halaman Dashboard Staf Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu  
+Dashboard  
+Klik menu 
+“Dashboard” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(c) Pengujian Halaman Produk Manajer Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman produk manajer 
+pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 51 
+
+=== PDF PAGE 100 ===
+142 
+ 
+ 
+ 
+Tabel 51. Pengujian Halaman Produk Manajer Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+produk 
+Klik menu 
+“Produk” 
+Masuk ke 
+halaman 
+produk 
+Masuk ke 
+halaman 
+produk 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(d) Pengujian Halaman Pengajuan Edit Produk Manajer Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman pengajuan edit 
+produk manajer pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 52. 
+Tabel 52. Pengujian Halaman Pengajuan Edit Produk Manajer Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pengajuan edit 
+produk 
+Klik menu 
+“Pengajuanْۗ
+EditْۗProduk” 
+Masuk ke 
+halaman 
+pengajuan edit 
+produk 
+Masuk ke 
+halaman 
+pengajuan edit 
+produk 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pengajuan edit 
+produk 
+Masuk ke 
+halaman detail 
+pengajuan edit 
+produk 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(e) Pengujian Halaman Validasi Perubahan Produk Disetujui 
+Dalam tahapan ini, penulis melakukan pengujian halaman validasi 
+perubahan produk. Adapun hasil pengujian dapat dilihat pada tabel 53. 
+Tabel 53. Pengujian Halaman Validasi Perubahan Produk Disetujui 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pengajuan edit 
+produk 
+Klik menu 
+“Pengajuanْۗ
+EditْۗProduk” 
+Masuk ke 
+halaman 
+pengajuan edit 
+produk 
+Masuk ke 
+halaman 
+pengajuan edit 
+produk 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pengajuan edit 
+produk 
+Masuk ke 
+halaman detail 
+pengajuan edit 
+produk 
+Berhasil 
+Setujui Klikْۗ“Setujui” Tampil 
+notifikasi 
+“Pengajuan 
+edit produk 
+berhasil 
+Tampil 
+notifikasi 
+“Pengajuan 
+edit produk 
+berhasil 
+Berhasil 
+
+=== PDF PAGE 101 ===
+143 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+disetujui dan 
+produk telah 
+diperbarui” 
+disetujui dan 
+produk telah 
+diperbarui” 
+Sumber: Penulis, 2025) 
+(f) Pengujian Halaman Validasi Perubahan Produk Ditolak 
+Dalam tahapan ini, penulis melakukan pengujian halaman validasi 
+perubahan produk. Adapun hasil pengujian dapat dilihat pada tabel 54. 
+Tabel 54. Pengujian Halaman Validasi Perubahan Produk Ditolak 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pengajuan edit 
+produk 
+Klik menu 
+“Pengajuanْۗ
+EditْۗProduk” 
+Masuk ke 
+halaman 
+pengajuan edit 
+produk 
+Masuk ke 
+halaman 
+pengajuan edit 
+produk 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pengajuan edit 
+produk 
+Masuk ke 
+halaman detail 
+pengajuan edit 
+produk 
+Berhasil 
+Alasan 
+penolakan 
+Masukkan 
+alasan 
+penolakan 
+Kolom alasan 
+penolakan 
+dapat terisi 
+Kolom alasan 
+penolakan 
+dapat terisi 
+Berhasil 
+Tolak pengajuan Klikْۗ“Tolakْۗ
+Pengajuan” 
+Tampil 
+notifikasi 
+“Pengajuan 
+edit produk 
+ditolak” 
+Tampil 
+notifikasi 
+“Pengajuan 
+edit produk 
+ditolak” 
+Berhasil 
+Sumber: Penulis, 2025) 
+(g) Pengujian Halaman Pesanan Manajer Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman pesanan 
+manajer pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 55. 
+Tabel 55. Pengujian Halaman Pesanan Manajer Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+
+=== PDF PAGE 102 ===
+144 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(h) Pengujian Konfirmasi Bukti Pembayaran DP 
+Dalam tahapan ini, penulis melakukan pengujian unggah bukti pembayaran 
+DP. Adapun hasil pengujian dapat dilihat pada tabel 56. 
+Tabel 56. Pengujian Konfirmasi Bukti Pembayaran DP 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+Konfirmasi bukti 
+pembayaran DP 
+Klik 
+“Konfirmasiْۗ
+bukti 
+pembayaran 
+DP” 
+Tampil 
+notifikasiْۗ“Buktiْۗ
+Pembayaran 
+DP telah 
+dikonfirmasi 
+dan status 
+diubah ke 
+Diproses” 
+Tampil 
+notifikasiْۗ“Buktiْۗ
+Pembayaran 
+DP telah 
+dikonfirmasi 
+dan status 
+diubah ke 
+Diproses” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(i) Pengujian Konfirmasi Bukti Pelunasan 
+Dalam tahapan ini, penulis melakukan pengujian unggah bukti pelunasan. 
+Adapun hasil pengujian dapat dilihat pada tabel 57. 
+Tabel 57. Pengujian Konfirmasi Bukti Pelunasan 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+
+=== PDF PAGE 103 ===
+145 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Konfirmasi bukti 
+pelunasan 
+Klik 
+“Konfirmasiْۗ
+bukti 
+pelunasan” 
+Tampil 
+notifikasiْۗ“Bukti 
+pelunasan 
+telah 
+dikonfirmasi 
+dan ajukan 
+validasi 
+dokumen 
+faktur 
+penjualan dan 
+berita acara” 
+Tampil 
+notifikasiْۗ“Bukti 
+pelunasan 
+telah 
+dikonfirmasi 
+dan ajukan 
+validasi 
+dokumen 
+faktur 
+penjualan dan 
+berita acara” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(j) Pengujian Logout Manajer Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian logout manajer 
+pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 58. 
+Tabel 58. Pengujian Logout Manajer Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Ikon pengguna Klik ikon 
+pengguna 
+Menampilkan 
+logout 
+Menampilkan 
+logout Berhasil 
+Logout Klikْۗ“Logout” Masuk ke 
+halaman 
+utama 
+Masuk ke 
+halaman 
+utama 
+Berhasil 
+ (Sumber: Penulis, 2025) 
+3) Pengujian Halaman Manajer Operasional 
+(a) Pengujian Halaman Login Manajer Operasional 
+Dalam tahapan ini, penulis melakukan pengujian halaman login manajer 
+operasional. Adapun hasil pengujian dapat dilihat pada tabel 59. 
+Tabel 59. Pengujian Halaman Login Manajer Operasional 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masukan email Memasukkan 
+email 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Masukan 
+password 
+Memasukkan 
+password 
+Kolom 
+password 
+dapat terisi 
+Kolom 
+password 
+dapat terisi 
+Berhasil 
+Login Klik tombol 
+“Login” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+
+=== PDF PAGE 104 ===
+146 
+ 
+ 
+ 
+(Sumber: Penulis, 2025) 
+(b) Pengujian Halaman Dashboard Manajer Operasional 
+Dalam tahapan ini, penulis melakukan pengujian halaman dashboard 
+manajer operasional. Adapun hasil pengujian dapat dilihat pada tabel 60. 
+Tabel 60. Pengujian Halaman Dashboard Manajer Operasional 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu  
+Dashboard  
+Klik menu 
+“Dashboard” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(c) Pengujian Halaman Pesanan Manajer Operasional 
+Dalam tahapan ini, penulis melakukan pengujian halaman pesanan 
+manajer operasional. Adapun hasil pengujian dapat dilihat pada tabel 61. 
+Tabel 61. Pengujian Halaman Pesanan Manajer Operasional 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(d) Pengujian Halaman Validasi Dokumen  
+Dalam tahapan ini, penulis melakukan pengujian halaman validasi 
+dokumen. Adapun hasil pengujian dapat dilihat pada tabel 62. 
+Tabel 62. Pengujian Halaman Validasi Dokumen 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+validasi 
+dokumen 
+Klik menu 
+“Validasiْۗ
+Dokumen” 
+Masuk ke 
+halaman 
+validasi 
+dokumen 
+Masuk ke 
+halaman 
+validasi 
+dokumen 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+validasi 
+dokumen 
+Masuk ke 
+halaman detail 
+validasi 
+dokumen 
+Berhasil 
+(Sumber: Penulis, 2025) 
+
+=== PDF PAGE 105 ===
+147 
+ 
+ 
+ 
+(e) Pengujian Validasi Dokumen Surat Jalan 
+Dalam tahapan ini, penulis melakukan pengujian halaman validasi 
+dokumen surat jalan. Adapun hasil pengujian dapat dilihat pada tabel 63. 
+Tabel 63. Pengujian Halaman Validasi Dokumen Surat Jalan 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+validasi 
+dokumen 
+Klik menu 
+“Validasiْۗ
+Dokumen” 
+Masuk ke 
+halaman 
+validasi 
+dokumen 
+Masuk ke 
+halaman 
+validasi 
+dokumen 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+validasi 
+dokumen 
+Masuk ke 
+halaman detail 
+validasi 
+dokumen 
+Berhasil 
+Setujui Klikْۗ“Setujui” Tampil 
+notifikasi 
+“Dokumen 
+surat jalan 
+disetujui” 
+Tampil 
+notifikasi 
+“Dokumen 
+surat jalan 
+disetujui” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(f) Pengujian Validasi Dokumen Faktur Penjualan 
+Dalam tahapan ini, penulis melakukan pengujian halaman validasi 
+dokumen faktur penjualan. Adapun hasil pengujian dapat dilihat pada tabel 64. 
+Tabel 64. Pengujian Halaman Validasi Dokumen Faktur Penjualan 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+validasi 
+dokumen 
+Klik menu 
+“Validasiْۗ
+Dokumen” 
+Masuk ke 
+halaman 
+validasi 
+dokumen 
+Masuk ke 
+halaman 
+validasi 
+dokumen 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+validasi 
+dokumen 
+Masuk ke 
+halaman detail 
+validasi 
+dokumen 
+Berhasil 
+Setujui Klikْۗ“Setujui” Tampil 
+notifikasi 
+“Dokumen 
+faktur 
+penjualan 
+disetujui” 
+Tampil 
+notifikasi 
+“Dokumen 
+faktur 
+penjualan 
+disetujui” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+ 
+
+=== PDF PAGE 106 ===
+148 
+ 
+ 
+ 
+(g) Pengujian Validasi Dokumen Berita Acara 
+Dalam tahapan ini, penulis melakukan pengujian halaman validasi 
+dokumen berita acara. Adapun hasil pengujian dapat dilihat pada tabel 65. 
+Tabel 65. Pengujian Halaman Validasi Dokumen Berita Acara 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+validasi 
+dokumen 
+Klik menu 
+“Validasiْۗ
+Dokumen” 
+Masuk ke 
+halaman 
+validasi 
+dokumen 
+Masuk ke 
+halaman 
+validasi 
+dokumen 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+validasi 
+dokumen 
+Masuk ke 
+halaman detail 
+validasi 
+dokumen 
+Berhasil 
+Setujui Klikْۗ“Setujui” Tampil 
+notifikasi 
+“Dokumen 
+berita acara 
+disetujui” 
+Tampil 
+notifikasi 
+“Dokumen 
+berita acara 
+disetujui” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(h) Pengujian Logout Manajer Operasional 
+Dalam tahapan ini, penulis melakukan pengujian logout manajer 
+operasional. Adapun hasil pengujian dapat dilihat pada tabel 66. 
+Tabel 66. Pengujian Logout Manajer Operasional 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Ikon pengguna Klik ikon 
+pengguna 
+Menampilkan 
+logout 
+Menampilkan 
+logout Berhasil 
+Logout Klikْۗ“Logout” Masuk ke 
+halaman 
+utama 
+Masuk ke 
+halaman 
+utama 
+Berhasil 
+ (Sumber: Penulis, 2025) 
+4) Pengujian Halaman Staf Pemasaran 
+(a) Pengujian Halaman Login Staf Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman login. Adapun 
+hasil pengujian dapat dilihat pada tabel 67. 
+
+=== PDF PAGE 107 ===
+149 
+ 
+ 
+ 
+Tabel 67. Pengujian Halaman Login Staf Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masukan email Memasukkan 
+email 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Masukan 
+password 
+Memasukkan 
+password 
+Kolom 
+password 
+dapat terisi 
+Kolom 
+password 
+dapat terisi 
+Berhasil 
+Login Klik tombol 
+“Login” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(b) Pengujian Halaman Dashboard Staf Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman dashboard staf 
+pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 68. 
+Tabel 68. Pengujian Halaman Dashboard Staf Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu  
+Dashboard  
+Klik menu 
+“Dashboard” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(c) Pengujian Halaman Produk Staf Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman produk staf 
+pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 69. 
+Tabel 69. Pengujian Halaman Produk Staf Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+produk 
+Klik menu 
+“Produk” 
+Masuk ke 
+halaman 
+produk 
+Masuk ke 
+halaman 
+produk 
+Berhasil 
+Tambah Produk Klik “Tambah 
+Produk” 
+Masuk ke 
+halaman 
+tambah produk  
+Masuk ke 
+halaman 
+tambah produk 
+Berhasil 
+Edit Produk  Klik “Edit”  Masuk ke 
+halaman edit 
+produk 
+Masuk ke 
+halaman edit 
+produk 
+Berhasil 
+Hapus Produk Klik “Hapus”  Muncul 
+peringatan 
+Muncul 
+peringatan 
+Berhasil 
+
+=== PDF PAGE 108 ===
+150 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+“Anda yakin 
+ingin hapus 
+produkْۗini?” 
+“Anda yakin 
+ingin hapus 
+produkْۗini?” 
+(Sumber: Penulis, 2025) 
+(d) Pengujian Tambah Produk 
+Dalam tahapan ini, penulis melakukan pengujian tambah produk. Adapun 
+hasil pengujian dapat dilihat pada tabel 70. 
+Tabel 70. Pengujian Tambah Produk 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masukan nama 
+produk 
+Memasukkan 
+nama produk 
+Kolom nama 
+produk dapat 
+terisi 
+Kolom nama 
+produk dapat 
+terisi 
+Berhasil 
+Masukan tipe  Memasukkan 
+tipe  
+Kolom tipe 
+dapat terisi 
+Kolom tipe 
+dapat terisi 
+Berhasil 
+Masukan merek  Memasukkan 
+merek 
+Kolom merek 
+dapat terisi 
+Kolom merek 
+dapat terisi 
+Berhasil 
+Masukan harga Memasukkan 
+harga 
+Kolom harga 
+dapat terisi 
+Kolom harga 
+dapat terisi 
+Berhasil 
+Masukan diskon Memasukkan 
+diskon 
+Kolom diskon 
+dapat terisi 
+Kolom diskon 
+dapat terisi 
+Berhasil 
+Masukan 
+gambar 
+Memasukkan 
+gambar 
+Kolom gambar 
+dapat terisi 
+Kolom gambar 
+dapat terisi 
+Berhasil 
+Masukan 
+deskripsi 
+Memasukkan 
+deskripsi 
+Kolom 
+deskripsi dapat 
+terisi 
+Kolom 
+deskripsi dapat 
+terisi 
+Berhasil 
+Simpan produk Klik tombol 
+“Simpan 
+Produk” 
+Tampil 
+notifikasi 
+“Produkْۗ
+berhasil 
+ditambahkan” 
+Tampil 
+notifikasi 
+“Produkْۗ
+berhasil 
+ditambahkan” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(e) Pengujian Edit Produk 
+Dalam tahapan ini, penulis melakukan pengujian edit produk. Adapun hasil 
+pengujian dapat dilihat pada tabel 71. 
+
+=== PDF PAGE 109 ===
+151 
+ 
+ 
+ 
+Tabel 71. Pengujian Edit Produk 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Ubah nama 
+produk 
+Memasukkan 
+nama produk 
+baru 
+Kolom nama 
+produk dapat 
+terisi 
+Kolom nama 
+produk dapat 
+terisi 
+Berhasil 
+Ubah tipe  Memasukkan 
+tipe produk 
+baru 
+Kolom tipe 
+dapat terisi 
+Kolom tipe 
+dapat terisi 
+Berhasil 
+Ubah merek  Memasukkan 
+merek baru 
+Kolom merek 
+dapat terisi 
+Kolom merek 
+dapat terisi 
+Berhasil 
+Ubah harga Memasukkan 
+harga baru 
+Kolom harga 
+dapat terisi 
+Kolom harga 
+dapat terisi 
+Berhasil 
+Ubah diskon Memasukkan 
+diskon baru 
+Kolom diskon 
+dapat terisi 
+Kolom diskon 
+dapat terisi 
+Berhasil 
+Ubah gambar Memasukkan 
+gambar baru 
+Kolom gambar 
+dapat terisi 
+Kolom gambar 
+dapat terisi 
+Berhasil 
+Ubah deskripsi Memasukkan 
+deskripsi 
+baru 
+Kolom 
+deskripsi dapat 
+terisi 
+Kolom 
+deskripsi dapat 
+terisi 
+Berhasil 
+Ajukan 
+perubahan 
+Klik tombol 
+“Ajukan 
+perubahan” 
+Tampil 
+notifikasi 
+“Pengajuan 
+edit produk 
+berhasil 
+dikirim” 
+Tampil 
+notifikasi 
+“Pengajuan 
+edit produk 
+berhasil 
+dikirim” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(f) Pengujian Hapus Produk 
+Dalam tahapan ini, penulis melakukan pengujian hapus produk. Adapun 
+hasil pengujian dapat dilihat pada tabel 72. 
+Tabel 72. Pengujian Hapus Produk 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Hapus Produk Klik “Hapus” Tampil popup 
+“Yakin ingin 
+menghapus 
+produkْۗini?” 
+Tampil popup 
+“Yakin ingin 
+menghapus 
+produkْۗini?” 
+Berhasil 
+Oke Klik “Oke” Tampil 
+notifikasi 
+“Produk 
+Tampil 
+notifikasi 
+“Produkْۗ
+Berhasil 
+
+=== PDF PAGE 110 ===
+152 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+berhasil 
+dihapus” 
+berhasil 
+dihapus” 
+(Sumber: Penulis, 2025) 
+(k) Pengujian Halaman Pengajuan Edit Produk Staf Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman pengajuan edit 
+produk staf pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 73. 
+Tabel 73. Pengujian Halaman Pengajuan Edit Produk Staf Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pengajuan edit 
+produk 
+Klik menu 
+“Pengajuanْۗ
+EditْۗProduk” 
+Masuk ke 
+halaman 
+pengajuan edit 
+produk 
+Masuk ke 
+halaman 
+pengajuan edit 
+produk 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pengajuan edit 
+produk 
+Masuk ke 
+halaman detail 
+pengajuan edit 
+produk 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(g) Pengujian Halaman Pesanan Staf Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian halaman pesanan staf 
+pemasaran. Adapun hasil pengujian dapat dilihat pada tabel 74. 
+Tabel 74. Pengujian Halaman Pesanan Staf Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+Detail Klik “Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(h) Pengujian Halaman Data Konsumen 
+Dalam tahapan ini, penulis melakukan pengujian halaman data konsumen. 
+Adapun hasil pengujian dapat dilihat pada tabel 75. 
+
+=== PDF PAGE 111 ===
+153 
+ 
+ 
+ 
+Tabel 75. Pengujian Halaman Data Konsumen 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+data konsumen 
+Klik menu 
+“Dataْۗ
+Konsumen” 
+Masuk ke 
+halaman data 
+konsumen 
+Masuk ke 
+halaman data 
+konsumen 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(i) Pengujian Halaman Data Staf 
+Dalam tahapan ini, penulis melakukan pengujian halaman data staf. 
+Adapun hasil pengujian dapat dilihat pada tabel 76. 
+Tabel 76. Pengujian Halaman Data Staf 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+data staf 
+Klik menu 
+“DataْۗStaf” 
+Masuk ke 
+halaman data 
+staf 
+Masuk ke 
+halaman data 
+staf 
+Berhasil 
+Tambah staf Klikْۗ“Tambah 
+Staf” 
+Tampil popup 
+tambah staf 
+Tampil popup 
+tambah staf 
+Berhasil 
+Edit akun staf Klikْۗ“Edit” Tampil popup 
+edit akun staf 
+Tampil popup 
+edit akun staf 
+Berhasil 
+Hapus akun staf Klikْۗ“Hapus” Tampil “Yakinْۗ
+ingin 
+menghapus 
+stafْۗini?” 
+Tampil “Yakinْۗ
+ingin 
+menghapus 
+stafْۗini?” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(j) Pengujian Tambah Staf 
+Dalam tahapan ini, penulis melakukan pengujian tambah staf. Adapun hasil 
+pengujian dapat dilihat pada tabel 77. 
+Tabel 77. Pengujian Tambah Staf 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masukan nama Memasukkan 
+nama  
+Kolom nama 
+dapat terisi 
+Kolom nama 
+dapat terisi 
+Berhasil 
+Masukan email Memasukkan 
+email 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Masukan 
+password  
+Memasukkan 
+password 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Level Pilih level Kolom level 
+dapat terpilih 
+Kolom level 
+dapat terpilih 
+Berhasil 
+
+=== PDF PAGE 112 ===
+154 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Buat staf Klik tombol 
+“Buat staf” 
+Tampil 
+notifikasi 
+“Akun staf 
+berhasil 
+ditambahkan” 
+Tampil 
+notifikasi 
+“Akunْۗstafْۗ
+berhasil 
+ditambahkan” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(k) Pengujian Edit Staf 
+Dalam tahapan ini, penulis melakukan pengujian edit staf. Adapun hasil 
+pengujian dapat dilihat pada tabel 78. 
+Tabel 78. Pengujian Edit Staf 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Ubah nama Memasukkan 
+nama baru 
+Kolom nama 
+dapat terisi 
+Kolom nama 
+dapat terisi 
+Berhasil 
+Ubah email Memasukkan 
+email baru 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Ubah password  Memasukkan 
+password 
+baru 
+Kolom 
+password 
+dapat terisi 
+Kolom 
+password 
+dapat terisi 
+Berhasil 
+Ubah level Pilih level Kolom level 
+dapat terpilih 
+Kolom level 
+dapat terpilih 
+Berhasil 
+Simpan 
+Perubahan 
+Klik tombol 
+“Simpanْۗ
+Perubahan” 
+Tampil 
+notifikasi 
+“Akunْۗstafْۗ
+berhasil 
+diperbarui” 
+Tampil 
+notifikasi 
+“Akunْۗstafْۗ
+berhasil 
+diperbarui” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(l) Pengujian Hapus Staf 
+Dalam tahapan ini, penulis melakukan pengujian hapus staf. Adapun hasil 
+pengujian dapat dilihat pada tabel 79. 
+Tabel 79. Pengujian Hapus Staf 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Hapus akun staf Klik “Hapus” Tampil popup 
+“Yakin ingin 
+menghapus 
+staf ini?” 
+Tampil popup 
+“Yakin ingin 
+menghapus 
+staf ini?” 
+Berhasil 
+
+=== PDF PAGE 113 ===
+155 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Oke Klik “Oke” Tampil 
+notifikasi 
+“Akunْۗstafْۗ
+berhasil 
+dihapus” 
+Tampil 
+notifikasi 
+“Akunْۗstafْۗ
+berhasil 
+dihapus” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(m) Pengujian Fitur Chat Staf Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian fitur chat staf pemasaran. 
+Adapun hasil pengujian dapat dilihat pada tabel 80. 
+Tabel 80. Pengujian Fitur Chat Staf Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+chat 
+Klik menu 
+“Chat” 
+Masuk ke 
+halaman chat 
+Masuk ke 
+halaman chat 
+Berhasil 
+Masukan pesan Memasukkan 
+pesan 
+Kolom pesan 
+dapat terisi 
+Kolom pesan 
+dapat terisi 
+Berhasil 
+Kirim pesan Klik ikon 
+kirim 
+Pesan terkirim 
+ke konsumen 
+Pesan terkirim 
+ke konsumen 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(n) Pengujian Logout Staf Pemasaran 
+Dalam tahapan ini, penulis melakukan pengujian logout staf pemasaran. 
+Adapun hasil pengujian dapat dilihat pada tabel 81. 
+Tabel 81. Pengujian Logout Staf Pemasaran 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Ikon pengguna Klik ikon 
+pengguna 
+Menampilkan 
+logout 
+Menampilkan 
+logout Berhasil 
+Logout Klikْۗ“Logout” Masuk ke 
+halaman 
+utama 
+Masuk ke 
+halaman 
+utama 
+Berhasil 
+ (Sumber: Penulis, 2025) 
+5) Pengujian Halaman Staf Operasional 
+(a) Pengujian Halaman Login Staf Operasional 
+Dalam tahapan ini, penulis melakukan pengujian halaman login staf 
+operasional. Adapun hasil pengujian dapat dilihat pada tabel 82. 
+
+=== PDF PAGE 114 ===
+156 
+ 
+ 
+ 
+Tabel 82. Pengujian Halaman Login Staf Operasional 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masukan email Memasukkan 
+email 
+Kolom email 
+dapat terisi 
+Kolom email 
+dapat terisi 
+Berhasil 
+Masukan 
+password 
+Memasukkan 
+password 
+Kolom 
+password 
+dapat terisi 
+Kolom 
+password 
+dapat terisi 
+Berhasil 
+Login Klik tombol 
+“Login” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+ (Sumber: Penulis, 2025) 
+(b) Pengujian Halaman Dashboard Staf Operasional 
+Dalam tahapan ini, penulis melakukan pengujian halaman dashboard staf 
+operasional. Adapun hasil pengujian dapat dilihat pada tabel 83. 
+Tabel 83. Pengujian Halaman Dashboard Staf Operasional 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu  
+Dashboard  
+Klik menu 
+“Dashboard” 
+Masuk ke 
+halaman 
+dashboard 
+Masuk ke 
+halaman 
+dashboard 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(c) Pengujian Halaman Pesanan Staf Operasional 
+Dalam tahapan ini, penulis melakukan pengujian halaman pesanan staf 
+operasional. Adapun hasil pengujian dapat dilihat pada tabel 84. 
+Tabel 84. Pengujian Menu Pesanan Staf Operasional 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+Detail Klik “Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(d) Pengujian Pengajuan Dokumen Surat Jalan 
+Dalam tahapan ini, penulis melakukan pengujian pengajuan dokumen surat 
+jalan. Adapun hasil pengujian dapat dilihat pada tabel 85. 
+
+=== PDF PAGE 115 ===
+157 
+ 
+ 
+ 
+Tabel 85. Pengujian Pengajuan Dokumen Surat Jalan 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+Detail Klik “Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+Submit Klikْۗ“Submit” Tampil 
+notifikasi 
+“Barang siap 
+kirim dan 
+ajukan 
+dokumen surat 
+jalan” 
+Tampil 
+notifikasi 
+“Barang siap 
+kirim dan 
+ajukan 
+dokumen surat 
+jalan” 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(e) Pengujian Cetak Dokumen Surat Jalan 
+Dalam tahapan ini, penulis melakukan pengujian cetak dokumen surat 
+jalan. Adapun hasil pengujian dapat dilihat pada tabel 86. 
+Tabel 86. Pengujian Cetak Dokumen Surat Jalan 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+Detail Klikْۗ“Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+Cetak surat 
+jalan 
+Klikْۗ“Cetakْۗ
+SuratْۗJalan” 
+Masuk ke 
+halaman cetak 
+surat jalan 
+Masuk ke 
+halaman cetak 
+surat jalan 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(f) Pengujian Cetak Dokumen Faktur Penjualan 
+Dalam tahapan ini, penulis melakukan pengujian cetak dokumen faktur 
+penjualan. Adapun hasil pengujian dapat dilihat pada tabel 87. 
+
+=== PDF PAGE 116 ===
+158 
+ 
+ 
+ 
+Tabel 87. Pengujian Cetak Dokumen Faktur Penjualan 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+Detail Klik “Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+Cetak faktur 
+penjualan 
+Klik “Cetakْۗ
+Faktur 
+Penjualan” 
+Masuk ke 
+halaman cetak 
+faktur 
+penjualan 
+Masuk ke 
+halaman cetak 
+faktur 
+penjualan 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(g) Pengujian Cetak Dokumen Berita Acara 
+Dalam tahapan ini, penulis melakukan pengujian cetak dokumen berita 
+acara. Adapun hasil pengujian dapat dilihat pada tabel 88. 
+Tabel 88. Pengujian Cetak Dokumen Berita Acara 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Masuk menu 
+pesanan 
+Klik menu 
+“Pesanan” 
+Masuk ke 
+halaman 
+pesanan 
+Masuk ke 
+halaman 
+pesanan 
+Berhasil 
+Detail Klik “Detail” Masuk ke 
+halaman detail 
+pemesanan 
+Masuk ke 
+halaman detail 
+pemesanan 
+Berhasil 
+Cetak berita 
+acara 
+Klikْۗ“Cetak 
+Berita Acara” 
+Masuk ke 
+halaman cetak 
+berita acara 
+Masuk ke 
+halaman cetak 
+berita acara 
+Berhasil 
+(Sumber: Penulis, 2025) 
+(h) Pengujian Logout Staf Operasional 
+Dalam tahapan ini, penulis melakukan pengujian logout staf operasional. 
+Adapun hasil pengujian dapat dilihat pada tabel 65. 
+Tabel 89. Pengujian Logout Staf Operasional 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Ikon pengguna Klik ikon 
+pengguna 
+Menampilkan 
+logout 
+Menampilkan 
+logout Berhasil 
+
+=== PDF PAGE 117 ===
+159 
+ 
+ 
+ 
+Skenario 
+Pengujian Tindakan Hasil yang 
+Diharapkan 
+Hasil 
+Pengujian Ket. 
+Logout Klik logout Kembali ke 
+halaman 
+utama 
+Kembali ke 
+halaman 
+utama 
+Berhasil 
+(Sumber: Penulis, 2025) 
+b. Beta Testing 
+Pengujian dengan metode beta testing dilakukan setelah pengujian dengan 
+menggunakan black box testing . Pengujian beta testing  dilaksanakan dengan 
+memperkenalkan secara langsung sistem yang dibangun kepada pengguna  
+dengan tujuan agar sistem yang dibangun sudah sesuai dengan kebutuhan dan 
+dapat digunakan. 
+Pengujian menggunakan metode beta testing  dilakukan di tempat 
+penelitian yaitu CV Gedrian Intimed Abadi pada tanggal 3 Juli 2025 yang dihadiri 
+oleh 4 orang peserta.  Pada gambar 11 2 merupakan proses pelaksanaan uji 
+kelayakan menggunakan metode beta testing. 
+ 
+Gambar 112. Uji Kelayakan menggunakan metode beta testing pada  
+CV Gedrian Intimed Abadi (Sumber: Penulis, 2025) 
+
+
+=== PDF PAGE 118 ===
+160 
+ 
+ 
+ 
+ 
+Gambar 113. Tampilan Interface Saat Pengujian Beta Testing 
+(Sumber: Penulis, 2025) 
+Uji kelayakan dihadiri oleh 4 orang, adapun daftar hadir uji kelayakan 
+program dicatat dalam lembar daftar hadir uji kelayakan  program. Gambar 11 4 
+merupakan daftar hadir uji kelayakan program. 
+ 
+Gambar 114. Daftar Hadir Uji Kelayakan Program (Sumber: Penulis, 2025) 
+Setelah dilakukan uji kelayakan pada sistem pengadaan alat kesehatan 
+pada CV Gedrian Intimed Abadi maka  didapatkan hasil dari uji kelayakan sistem 
+pengadaan alat kesehatan pada CV Gedrian Intimed Abadi dapat dilihat pada 
+gambar 115 berikut. 

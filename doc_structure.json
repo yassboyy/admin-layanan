@@ -1,0 +1,1212 @@
+[
+  {
+    "type": "paragraph",
+    "text": "3. Tes Perangkat Lunak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Tes perangkat lunak atau pengujian dilakukan untuk memastikan bahwa sistem yang dibangun telah berjalan dan berfungsi sesuai dengan kebutuhan pengguna. Dalam proses pengujian ini, penulis menggunakan metode Black Box Testing."
+  },
+  {
+    "type": "paragraph",
+    "text": "a. Black Box Testing"
+  },
+  {
+    "type": "paragraph",
+    "text": "Pengujian menggunakan black box testing bertujuan untuk memastikan bahwa seluruh fungsi sistem yang dibangun berjalan dengan baik dan sesuai dengan skenario yang diharapkan."
+  },
+  {
+    "type": "paragraph",
+    "text": "Keterangan :Berhasil : Jika program yang diuji berjalan sesuai skenario yang diharapkanError : Jika program yang diuji tidak berjalan dan terdapat kesalahan"
+  },
+  {
+    "type": "paragraph",
+    "text": ""
+  },
+  {
+    "type": "paragraph",
+    "text": "Contoh :"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(1) Pengujian Halaman Pelanggan"
+  },
+  {
+    "type": "paragraph",
+    "text": "(a) Pengujian Halaman Registrasi Pelanggan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman registrasi pelanggan. Adapun hasil pengujian dapat dilihat pada tabel 40."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 40. Pengujian Halaman Registrasi Pelanggan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(b) Pengujian Halaman Login Pelanggan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman login pelanggan. Adapun hasil pengujian dapat dilihat pada tabel 41."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 41. Pengujian Halaman Login Pelanggan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(c) Pengujian Halaman Lupa Password"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman lupa password. Adapun hasil pengujian dapat dilihat pada tabel 42."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 42. Pengujian Halaman Lupa Password"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(d) Pengujian Halaman Verify Email"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman verify email. Adapun hasil pengujian dapat dilihat pada tabel 43."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 43. Pengujian Halaman Verify Email"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(e) Pengujian Halaman Beranda Pelanggan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman beranda pelanggan. Adapun hasil pengujian dapat dilihat pada tabel 44."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 44. Pengujian Halaman Beranda Pelanggan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(f) Pengujian Halaman Tentang Kami"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman tentang kami. Adapun hasil pengujian dapat dilihat pada tabel 45."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 45. Pengujian Halaman Tentang Kami"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(g) Pengujian Halaman Layanan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman layanan. Adapun hasil pengujian dapat dilihat pada tabel 46."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 46. Pengujian Halaman Layanan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(h) Pengujian Halaman Dokumentasi"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman dokumentasi. Adapun hasil pengujian dapat dilihat pada tabel 47."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 47. Pengujian Halaman Dokumentasi"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(i) Pengujian Halaman Kontak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman kontak. Adapun hasil pengujian dapat dilihat pada tabel 48."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 48. Pengujian Halaman Kontak"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(j) Pengujian Pemesanan Layanan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian pemesanan layanan. Adapun hasil pengujian dapat dilihat pada tabel 49."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 49. Pengujian Pemesanan Layanan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(k) Pengujian Mengajukan Diskon dan Unggah Dokumen PO"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian mengajukan diskon dan unggah dokumen PO. Adapun hasil pengujian dapat dilihat pada tabel 50."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 50. Pengujian Mengajukan Diskon dan Unggah Dokumen PO"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(l) Pengujian Unggah Bukti Pembayaran DP"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian unggah bukti pembayaran DP. Adapun hasil pengujian dapat dilihat pada tabel 51."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 51. Pengujian Unggah Bukti Pembayaran DP"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(m) Pengujian Unggah Bukti Pelunasan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian unggah bukti pelunasan. Adapun hasil pengujian dapat dilihat pada tabel 52."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 52. Pengujian Unggah Bukti Pelunasan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(n) Pengujian Halaman Dashboard Pelanggan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman dashboard pelanggan. Adapun hasil pengujian dapat dilihat pada tabel 53."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 53. Pengujian Halaman Dashboard Pelanggan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(o) Pengujian Unggah Dokumen Persyaratan Layanan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian unggah dokumen persyaratan layanan. Adapun hasil pengujian dapat dilihat pada tabel 54."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 54. Pengujian Unggah Dokumen Persyaratan Layanan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(p) Pengujian Unggah Dokumen SPK"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian unggah dokumen SPK. Adapun hasil pengujian dapat dilihat pada tabel 55."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 55. Pengujian Unggah Dokumen SPK"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(q) Pengujian Cetak Dokumen Surat Jalan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian cetak dokumen surat jalan. Adapun hasil pengujian dapat dilihat pada tabel 56."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 56. Pengujian Cetak Dokumen Surat Jalan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(r) Pengujian Cetak Dokumen Berita Acara"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian cetak dokumen berita acara. Adapun hasil pengujian dapat dilihat pada tabel 57."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 57. Pengujian Cetak Dokumen Berita Acara"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(s) Pengujian Cetak Dokumen Invoice"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian cetak dokumen invoice. Adapun hasil pengujian dapat dilihat pada tabel 58."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 58. Pengujian Cetak Dokumen Invoice"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(t) Pengujian Fitur Chat Pelanggan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian fitur chat pelanggan. Adapun hasil pengujian dapat dilihat pada tabel 59."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 59. Pengujian Fitur Chat Pelanggan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(u) Pengujian Logout Pelanggan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian logout pelanggan. Adapun hasil pengujian dapat dilihat pada tabel 60."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 60. Pengujian Logout Pelanggan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(2) Pengujian Halaman Admin"
+  },
+  {
+    "type": "paragraph",
+    "text": "(a) Pengujian Login Admin"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian login admin. Adapun hasil pengujian dapat dilihat pada tabel 61."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 61. Pengujian Login Admin"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(b) Pengujian Halaman Dashboard Admin"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman dashboard admin. Adapun hasil pengujian dapat dilihat pada tabel 62."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 62. Pengujian Halaman Dashboard Admin"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(c) Pengujian Halaman Data Pelanggan Admin"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman data pelanggan admin. Adapun hasil pengujian dapat dilihat pada tabel 63."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 63. Pengujian Halaman Data Pelanggan Admin"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(d) Pengujian Tambah Pelanggan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian tambah pelanggan. Adapun hasil pengujian dapat dilihat pada tabel 64."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 64. Pengujian Tambah Pelanggan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(e) Pengujian Halaman Pesanan Admin"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman pesanan admin. Adapun hasil pengujian dapat dilihat pada tabel 65."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 65. Pengujian Halaman Pesanan Admin"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(f) Pengujian Konfirmasi Bukti Pembayaran DP Disetujui"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian konfirmasi bukti pembayaran DP disetujui. Adapun hasil pengujian dapat dilihat pada tabel 66."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 66. Pengujian Konfirmasi Bukti Pembayaran DP Disetujui"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(g) Pengujian Konfirmasi Bukti Pembayaran DP Ditolak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian konfirmasi bukti pembayaran DP ditolak. Adapun hasil pengujian dapat dilihat pada tabel 67."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 67. Pengujian Konfirmasi Bukti Pembayaran DP Ditolak"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(h) Pengujian Konfirmasi Bukti Pelunasan Disetujui"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian konfirmasi bukti pelunasan disetujui. Adapun hasil pengujian dapat dilihat pada tabel 68."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 68. Pengujian Konfirmasi Bukti Pelunasan Disetujui"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(i) Pengujian Konfirmasi Bukti Pelunasan Ditolak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian konfirmasi bukti pelunasan ditolak. Adapun hasil pengujian dapat dilihat pada tabel 69."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 69. Pengujian Konfirmasi Bukti Pelunasan Ditolak"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(j) Pengujian Pengajuan Dokumen Surat Jalan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian pengajuan dokumen surat jalan. Adapun hasil pengujian dapat dilihat pada tabel 70."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 70. Pengujian Pengajuan Dokumen Surat Jalan"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(k) Pengujian Pengajuan Dokumen Berita Acara"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian pengajuan dokumen berita acara. Adapun hasil pengujian dapat dilihat pada tabel 71."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 71. Pengujian Pengajuan Dokumen Berita Acara"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(l) Pengujian Pengajuan Dokumen Invoice"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian pengajuan dokumen invoice. Adapun hasil pengujian dapat dilihat pada tabel 72."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 72. Pengujian Pengajuan Dokumen Invoice"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(m) Pengujian Cetak Dokumen Surat Jalan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian cetak dokumen surat jalan. Adapun hasil pengujian dapat dilihat pada tabel 73."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 73. Pengujian Cetak Dokumen Surat Jalan Admin"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(n) Pengujian Cetak Dokumen Berita Acara"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian cetak dokumen berita acara. Adapun hasil pengujian dapat dilihat pada tabel 74."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 74. Pengujian Cetak Dokumen Berita Acara Admin"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(o) Pengujian Cetak Dokumen Invoice"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian cetak dokumen invoice. Adapun hasil pengujian dapat dilihat pada tabel 75."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 75. Pengujian Cetak Dokumen Invoice Admin"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(p) Pengujian Fitur Chat Admin"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian fitur chat admin. Adapun hasil pengujian dapat dilihat pada tabel 76."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 76. Pengujian Fitur Chat Admin"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(q) Pengujian Logout Admin"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian logout admin. Adapun hasil pengujian dapat dilihat pada tabel 77."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 77. Pengujian Logout Admin"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(3) Pengujian Halaman Direktur"
+  },
+  {
+    "type": "paragraph",
+    "text": "(a) Pengujian Login Direktur"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian login direktur. Adapun hasil pengujian dapat dilihat pada tabel 78."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 78. Pengujian Login Direktur"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(b) Pengujian Halaman Dashboard Direktur"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman dashboard direktur. Adapun hasil pengujian dapat dilihat pada tabel 79."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 79. Pengujian Halaman Dashboard Direktur"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(c) Pengujian Halaman Data Pelanggan Direktur"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman data pelanggan direktur. Adapun hasil pengujian dapat dilihat pada tabel 80."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 80. Pengujian Halaman Data Pelanggan Direktur"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(d) Pengujian Halaman Validasi Dokumen"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman validasi dokumen. Adapun hasil pengujian dapat dilihat pada tabel 81."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 81. Pengujian Halaman Validasi Dokumen"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(e) Pengujian Validasi Dokumen PO Disetujui"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen PO disetujui. Adapun hasil pengujian dapat dilihat pada tabel 82."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 82. Pengujian Validasi Dokumen PO Disetujui"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(f) Pengujian Validasi Dokumen PO Ditolak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen PO ditolak. Adapun hasil pengujian dapat dilihat pada tabel 83."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 83. Pengujian Validasi Dokumen PO Ditolak"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(g) Pengujian Validasi Dokumen SPK Disetujui"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen SPK disetujui. Adapun hasil pengujian dapat dilihat pada tabel 84."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 84. Pengujian Validasi Dokumen SPK Disetujui"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(h) Pengujian Validasi Dokumen SPK Ditolak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen SPK ditolak. Adapun hasil pengujian dapat dilihat pada tabel 85."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 85. Pengujian Validasi Dokumen SPK Ditolak"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(i) Pengujian Validasi Dokumen Surat Jalan Disetujui"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen surat jalan disetujui. Adapun hasil pengujian dapat dilihat pada tabel 86."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 86. Pengujian Validasi Dokumen Surat Jalan Disetujui"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(j) Pengujian Validasi Dokumen Surat Jalan Ditolak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen surat jalan ditolak. Adapun hasil pengujian dapat dilihat pada tabel 87."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 87. Pengujian Validasi Dokumen Surat Jalan Ditolak"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(k) Pengujian Validasi Dokumen Berita Acara Disetujui"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen berita acara disetujui. Adapun hasil pengujian dapat dilihat pada tabel 88."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 88. Pengujian Validasi Dokumen Berita Acara Disetujui"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(l) Pengujian Validasi Dokumen Berita Acara Ditolak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen berita acara ditolak. Adapun hasil pengujian dapat dilihat pada tabel 89."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 89. Pengujian Validasi Dokumen Berita Acara Ditolak"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(m) Pengujian Validasi Dokumen Invoice Disetujui"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen invoice disetujui. Adapun hasil pengujian dapat dilihat pada tabel 90."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 90. Pengujian Validasi Dokumen Invoice Disetujui"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(n) Pengujian Validasi Dokumen Invoice Ditolak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian validasi dokumen invoice ditolak. Adapun hasil pengujian dapat dilihat pada tabel 91."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 91. Pengujian Validasi Dokumen Invoice Ditolak"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(o) Pengujian Halaman Laporan Teknisi"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman laporan teknisi. Adapun hasil pengujian dapat dilihat pada tabel 92."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 92. Pengujian Halaman Laporan Teknisi"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(p) Pengujian Konfirmasi Laporan Pengerjaan Teknisi Disetujui"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian konfirmasi laporan pengerjaan teknisi disetujui. Adapun hasil pengujian dapat dilihat pada tabel 93."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 93. Pengujian Konfirmasi Laporan Pengerjaan Teknisi Disetujui"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(q) Pengujian Konfirmasi Laporan Pengerjaan Teknisi Ditolak"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian konfirmasi laporan pengerjaan teknisi ditolak. Adapun hasil pengujian dapat dilihat pada tabel 94."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 94. Pengujian Konfirmasi Laporan Pengerjaan Teknisi Ditolak"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(r) Pengujian Logout Direktur"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian logout direktur. Adapun hasil pengujian dapat dilihat pada tabel 95."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 95. Pengujian Logout Direktur"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(4) Pengujian Halaman Manager Teknisi"
+  },
+  {
+    "type": "paragraph",
+    "text": "(a) Pengujian Login Manager Teknisi"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian login manager teknisi. Adapun hasil pengujian dapat dilihat pada tabel 96."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 96. Pengujian Login Manager Teknisi"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(b) Pengujian Halaman Dashboard Manager Teknisi"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman dashboard manager teknisi. Adapun hasil pengujian dapat dilihat pada tabel 97."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 97. Pengujian Halaman Dashboard Manager Teknisi"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(c) Pengujian Halaman Pelaporan"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian halaman pelaporan. Adapun hasil pengujian dapat dilihat pada tabel 98."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 98. Pengujian Halaman Pelaporan Manager Teknisi"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(d) Pengujian Laporkan Pengerjaan Teknisi"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian laporkan pengerjaan teknisi. Adapun hasil pengujian dapat dilihat pada tabel 99."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 99. Pengujian Laporkan Pengerjaan Teknisi"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  },
+  {
+    "type": "paragraph",
+    "text": "(e) Pengujian Logout Manager Teknisi"
+  },
+  {
+    "type": "paragraph",
+    "text": "Dalam tahapan ini, penulis melakukan pengujian logout manager teknisi. Adapun hasil pengujian dapat dilihat pada tabel 100."
+  },
+  {
+    "type": "paragraph",
+    "text": "Tabel 100. Pengujian Logout Manager Teknisi"
+  },
+  {
+    "type": "table"
+  },
+  {
+    "type": "paragraph",
+    "text": "(Sumber: Penulis, 2026)"
+  }
+]
