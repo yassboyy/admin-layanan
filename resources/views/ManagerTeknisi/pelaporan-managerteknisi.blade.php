@@ -688,16 +688,14 @@
                                         <p id="laporkan-file-size" class="text-[10px] text-slate-400 font-medium">Siap diunggah</p>
                                     </div>
                                 </div>
-                                <button type="button" onclick="openUploadedPhotoModal()"
+                                <a id="laporkan-lihat-foto-btn" href="#" target="_blank"
                                     class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-bold transition-all shadow-xs shrink-0 cursor-pointer">
                                     <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                            d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                            d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+                                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                                     </svg>
                                     <span>Lihat Foto</span>
-                                </button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -796,13 +794,11 @@
                         Foto / Dokumentasi Hasil Pengerjaan
                     </span>
                     <div id="detail-gambar-container">
-                        <a id="detail-gambar-btn" href="#" target="_blank" onclick="openDetailPhotoPreview(event)"
+                        <a id="detail-gambar-btn" href="#" target="_blank"
                             class="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs transition-all shadow-xs cursor-pointer">
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+                                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                             </svg>
                             <span>Lihat Dokumentasi Pekerjaan</span>
                         </a>
@@ -822,61 +818,6 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
                     </svg>
                     <span>Tutup</span>
-                </button>
-            </div>
-        </div>
-    </div>
-
-    {{-- ==================== MODAL PREVIEW FOTO / LIGHTBOX ==================== --}}
-    <div id="modal-preview-foto"
-        class="fixed inset-0 z-[60] hidden bg-slate-900/80 backdrop-blur-xs flex items-center justify-center p-4"
-        onclick="if(event.target === this) closePhotoPreviewModal()">
-        <div class="bg-white dark:bg-slate-800 rounded-2xl max-w-3xl w-full border border-slate-200 dark:border-slate-700 shadow-2xl overflow-hidden animate-in fade-in zoom-in duration-150 flex flex-col max-h-[90vh] relative z-10">
-            
-            {{-- Header --}}
-            <div class="px-5 py-3.5 border-b border-slate-100 dark:border-slate-700 flex justify-between items-center bg-slate-50/80 dark:bg-slate-700/40">
-                <div class="flex items-center gap-2 min-w-0">
-                    <div class="w-7 h-7 rounded-lg bg-blue-50 dark:bg-blue-900/40 text-blue-600 dark:text-blue-400 flex items-center justify-center shrink-0">
-                        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-                        </svg>
-                    </div>
-                    <span id="preview-foto-title" class="text-xs font-bold text-slate-800 dark:text-slate-100 truncate">
-                        Preview Foto / Dokumentasi
-                    </span>
-                </div>
-                <div class="flex items-center gap-2 shrink-0">
-                    <a id="preview-foto-external-btn" href="#" target="_blank"
-                        class="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-semibold rounded-lg text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-600 transition-colors"
-                        title="Buka di tab baru">
-                        <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                        </svg>
-                        <span>Tab Baru</span>
-                    </a>
-                    <button type="button" onclick="closePhotoPreviewModal()"
-                        class="w-7 h-7 flex items-center justify-center rounded-lg text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors cursor-pointer">
-                        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-                        </svg>
-                    </button>
-                </div>
-            </div>
-
-            {{-- Image Content --}}
-            <div class="p-4 bg-slate-950/80 flex items-center justify-center overflow-auto max-h-[calc(90vh-115px)] min-h-[220px]">
-                <img id="preview-foto-img" src="" alt="Preview Foto Dokumentasi"
-                    class="max-h-[72vh] w-auto object-contain rounded-lg shadow-md transition-all">
-            </div>
-
-            {{-- Footer --}}
-            <div class="px-5 py-3 border-t border-slate-100 dark:border-slate-700 flex justify-between items-center bg-slate-50/80 dark:bg-slate-700/40">
-                <span id="preview-foto-info" class="text-[11px] text-slate-500 dark:text-slate-400 truncate"></span>
-                <button type="button" onclick="closePhotoPreviewModal()"
-                    class="px-4 py-1.5 bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 rounded-lg text-xs font-bold transition-all cursor-pointer">
-                    Tutup
                 </button>
             </div>
         </div>
@@ -911,40 +852,6 @@
 
         let currentUploadedPhotoUrl = '';
         let currentUploadedFileName = '';
-        let currentDetailGambarUrl = '';
-        let currentDetailPo = '';
-
-        function openUploadedPhotoModal() {
-            if (!currentUploadedPhotoUrl) return;
-            openPhotoPreviewModal(currentUploadedPhotoUrl, currentUploadedFileName || 'Dokumentasi Pengerjaan');
-        }
-
-        function openDetailPhotoPreview(e) {
-            if (e) e.preventDefault();
-            if (currentDetailGambarUrl) {
-                openPhotoPreviewModal(currentDetailGambarUrl, 'Dokumentasi Pekerjaan - ' + (currentDetailPo || 'Pesanan'));
-            }
-        }
-
-        function openPhotoPreviewModal(url, title) {
-            const modal = document.getElementById('modal-preview-foto');
-            const img = document.getElementById('preview-foto-img');
-            const titleEl = document.getElementById('preview-foto-title');
-            const extBtn = document.getElementById('preview-foto-external-btn');
-            const infoEl = document.getElementById('preview-foto-info');
-
-            if (img) img.src = url;
-            if (titleEl) titleEl.textContent = title ? `Preview: ${title}` : 'Preview Foto / Dokumentasi';
-            if (extBtn) extBtn.href = url;
-            if (infoEl) infoEl.textContent = title || '';
-
-            if (modal) modal.classList.remove('hidden');
-        }
-
-        function closePhotoPreviewModal() {
-            const modal = document.getElementById('modal-preview-foto');
-            if (modal) modal.classList.add('hidden');
-        }
 
         function openModalLaporkan(pemesananId, noPo, namaPelanggan, alatDipakai, tglSelesai, alasanTolak) {
             document.getElementById('laporkan-pemesanan-id').value = pemesananId;
@@ -968,6 +875,12 @@
             if (fileInput) fileInput.value = '';
             const previewBox = document.getElementById('laporkan-preview-box');
             if (previewBox) previewBox.classList.add('hidden');
+            const btn = document.getElementById('laporkan-lihat-foto-btn');
+            if (btn) btn.href = '#';
+
+            if (currentUploadedPhotoUrl && currentUploadedPhotoUrl.startsWith('blob:')) {
+                URL.revokeObjectURL(currentUploadedPhotoUrl);
+            }
             currentUploadedPhotoUrl = '';
             currentUploadedFileName = '';
 
@@ -990,21 +903,28 @@
                     sizeStr = (file.size / (1024 * 1024)).toFixed(2) + ' MB';
                 }
 
-                const reader = new FileReader();
-                reader.onload = function(e) {
-                    currentUploadedPhotoUrl = e.target.result;
-                    const nameEl = document.getElementById('laporkan-file-name');
-                    const sizeEl = document.getElementById('laporkan-file-size');
-                    const box = document.getElementById('laporkan-preview-box');
+                if (currentUploadedPhotoUrl && currentUploadedPhotoUrl.startsWith('blob:')) {
+                    URL.revokeObjectURL(currentUploadedPhotoUrl);
+                }
+                currentUploadedPhotoUrl = URL.createObjectURL(file);
 
-                    if (nameEl) nameEl.textContent = file.name;
-                    if (sizeEl) sizeEl.textContent = `${sizeStr} • Siap diunggah`;
-                    if (box) box.classList.remove('hidden');
-                };
-                reader.readAsDataURL(file);
+                const nameEl = document.getElementById('laporkan-file-name');
+                const sizeEl = document.getElementById('laporkan-file-size');
+                const box = document.getElementById('laporkan-preview-box');
+                const btn = document.getElementById('laporkan-lihat-foto-btn');
+
+                if (nameEl) nameEl.textContent = file.name;
+                if (sizeEl) sizeEl.textContent = `${sizeStr} • Siap diunggah`;
+                if (btn) btn.href = currentUploadedPhotoUrl;
+                if (box) box.classList.remove('hidden');
             } else {
+                if (currentUploadedPhotoUrl && currentUploadedPhotoUrl.startsWith('blob:')) {
+                    URL.revokeObjectURL(currentUploadedPhotoUrl);
+                }
                 currentUploadedPhotoUrl = '';
                 currentUploadedFileName = '';
+                const btn = document.getElementById('laporkan-lihat-foto-btn');
+                if (btn) btn.href = '#';
                 const box = document.getElementById('laporkan-preview-box');
                 if (box) box.classList.add('hidden');
             }
@@ -1016,9 +936,6 @@
             document.getElementById('detail-layanan').innerHTML = renderServicesById(pemesananId);
             document.getElementById('detail-tgl-selesai').textContent = tglSelesai || '-';
             document.getElementById('detail-alat').textContent = (alatDipakai && alatDipakai !== '-') ? alatDipakai : '-';
-
-            currentDetailGambarUrl = gambarUrl || '';
-            currentDetailPo = noPo || '';
 
             const btn = document.getElementById('detail-gambar-btn');
             const noImg = document.getElementById('detail-no-gambar');
@@ -1041,11 +958,6 @@
         // Close on ESC key
         document.addEventListener('keydown', function(event) {
             if (event.key === 'Escape') {
-                const photoModal = document.getElementById('modal-preview-foto');
-                if (photoModal && !photoModal.classList.contains('hidden')) {
-                    closePhotoPreviewModal();
-                    return;
-                }
                 closeModalLaporkan();
                 closeModalDetailLaporan();
             }
