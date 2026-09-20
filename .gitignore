@@ -24,3 +24,6 @@ Homestead.yaml
 Thumbs.db
 *.zip
 *.sql
+/public/uploads/dokumen_pesanan
+/public/uploads/bukti
+/public/uploads/laporan
